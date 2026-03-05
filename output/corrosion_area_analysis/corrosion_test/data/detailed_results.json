@@ -1,0 +1,1548 @@
+[
+  {
+    "image_id": "1008",
+    "file_name": "datasets/semantic/test/images/1008.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 13,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 3817,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 3817,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 3817,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 3817,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 43,
+        "class_name": "Bearing",
+        "total_area_pixels": 13558,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 2953,
+            "total_element_pixels": 13558,
+            "area_ratio": 0.21780498598613365
+          },
+          "Poor": {
+            "area_pixels": 495,
+            "total_element_pixels": 13558,
+            "area_ratio": 0.03650980970644638
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 13558,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 52,
+        "class_name": "Bearing",
+        "total_area_pixels": 14767,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 11097,
+            "total_element_pixels": 14767,
+            "area_ratio": 0.7514728787160561
+          },
+          "Poor": {
+            "area_pixels": 1135,
+            "total_element_pixels": 14767,
+            "area_ratio": 0.0768605674815467
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 14767,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 92,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 6290,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 416,
+            "total_element_pixels": 6290,
+            "area_ratio": 0.06613672496025437
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 6290,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 6290,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "1233",
+    "file_name": "datasets/semantic/test/images/1233.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 43,
+        "class_name": "Bearing",
+        "total_area_pixels": 31513,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 18968,
+            "total_element_pixels": 31513,
+            "area_ratio": 0.6019103227239552
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 31513,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 31513,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 76,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 8360,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 8360,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 8360,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 8360,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "1522",
+    "file_name": "datasets/semantic/test/images/1522.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 41,
+        "class_name": "Bearing",
+        "total_area_pixels": 55281,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 31082,
+            "total_element_pixels": 55281,
+            "area_ratio": 0.562254662542284
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 55281,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 55281,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 59,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 7269,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 7269,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 7269,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 7269,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "1528",
+    "file_name": "datasets/semantic/test/images/1528.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 38,
+        "class_name": "Bearing",
+        "total_area_pixels": 10413,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 10236,
+            "total_element_pixels": 10413,
+            "area_ratio": 0.9830020167098819
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 10413,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 10413,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 92,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 10852,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1229,
+            "total_element_pixels": 10852,
+            "area_ratio": 0.11325101363803908
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 10852,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 10852,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "16",
+    "file_name": "datasets/semantic/test/images/16.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 3,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 5424,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 581,
+            "total_element_pixels": 5424,
+            "area_ratio": 0.1071165191740413
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 5424,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 5424,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 39,
+        "class_name": "Bearing",
+        "total_area_pixels": 74351,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 10,
+            "total_element_pixels": 74351,
+            "area_ratio": 0.00013449718228403115
+          },
+          "Poor": {
+            "area_pixels": 73724,
+            "total_element_pixels": 74351,
+            "area_ratio": 0.9915670266707912
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 74351,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 53,
+        "class_name": "Bearing",
+        "total_area_pixels": 7913,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 7913,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 7677,
+            "total_element_pixels": 7913,
+            "area_ratio": 0.9701756603058258
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 7913,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 93,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 11924,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1425,
+            "total_element_pixels": 11924,
+            "area_ratio": 0.11950687688695069
+          },
+          "Poor": {
+            "area_pixels": 1360,
+            "total_element_pixels": 11924,
+            "area_ratio": 0.11405568601140557
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 11924,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "1995",
+    "file_name": "datasets/semantic/test/images/1995.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 27,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 25575,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 25575,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 25575,
+            "total_element_pixels": 25575,
+            "area_ratio": 1.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 25575,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 38,
+        "class_name": "Bearing",
+        "total_area_pixels": 26355,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 6201,
+            "total_element_pixels": 26355,
+            "area_ratio": 0.235287421741605
+          },
+          "Poor": {
+            "area_pixels": 8515,
+            "total_element_pixels": 26355,
+            "area_ratio": 0.3230885979889964
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 26355,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 57,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 13427,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 11898,
+            "total_element_pixels": 13427,
+            "area_ratio": 0.8861249720711998
+          },
+          "Poor": {
+            "area_pixels": 1285,
+            "total_element_pixels": 13427,
+            "area_ratio": 0.09570268861249721
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 13427,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2065",
+    "file_name": "datasets/semantic/test/images/2065.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 36,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 11958,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 41,
+            "total_element_pixels": 11958,
+            "area_ratio": 0.0034286670011707643
+          },
+          "Poor": {
+            "area_pixels": 389,
+            "total_element_pixels": 11958,
+            "area_ratio": 0.03253052349891286
+          },
+          "Severe": {
+            "area_pixels": 3240,
+            "total_element_pixels": 11958,
+            "area_ratio": 0.2709483191169092
+          }
+        }
+      },
+      {
+        "element_id": 44,
+        "class_name": "Bearing",
+        "total_area_pixels": 10935,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 5,
+            "total_element_pixels": 10935,
+            "area_ratio": 0.0004572473708276177
+          },
+          "Poor": {
+            "area_pixels": 10058,
+            "total_element_pixels": 10935,
+            "area_ratio": 0.9197988111568358
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 10935,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 74,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 6616,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 3426,
+            "total_element_pixels": 6616,
+            "area_ratio": 0.5178355501813785
+          },
+          "Poor": {
+            "area_pixels": 865,
+            "total_element_pixels": 6616,
+            "area_ratio": 0.13074365175332528
+          },
+          "Severe": {
+            "area_pixels": 131,
+            "total_element_pixels": 6616,
+            "area_ratio": 0.019800483675937123
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "23",
+    "file_name": "datasets/semantic/test/images/23.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 21,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 14695,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 14258,
+            "total_element_pixels": 14695,
+            "area_ratio": 0.9702619938754679
+          },
+          "Poor": {
+            "area_pixels": 294,
+            "total_element_pixels": 14695,
+            "area_ratio": 0.020006805035726438
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 14695,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 34,
+        "class_name": "Bearing",
+        "total_area_pixels": 70752,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 30586,
+            "total_element_pixels": 70752,
+            "area_ratio": 0.4322987336047038
+          },
+          "Poor": {
+            "area_pixels": 28791,
+            "total_element_pixels": 70752,
+            "area_ratio": 0.4069284260515604
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 70752,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2302",
+    "file_name": "datasets/semantic/test/images/2302.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 16,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 5427,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 816,
+            "total_element_pixels": 5427,
+            "area_ratio": 0.15035931453841903
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 5427,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 5427,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 36,
+        "class_name": "Bearing",
+        "total_area_pixels": 5173,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 4748,
+            "total_element_pixels": 5173,
+            "area_ratio": 0.91784264450029
+          },
+          "Poor": {
+            "area_pixels": 1,
+            "total_element_pixels": 5173,
+            "area_ratio": 0.00019331142470520006
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 5173,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 37,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 2410,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 2410,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 2410,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 2410,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 50,
+        "class_name": "Gusset Plate Connection",
+        "total_area_pixels": 3150,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 3150,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 3150,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 3150,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 75,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 7204,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 7204,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 7204,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 7204,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 94,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 5842,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 5842,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 5842,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 5842,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2369",
+    "file_name": "datasets/semantic/test/images/2369.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 35,
+        "class_name": "Bearing",
+        "total_area_pixels": 28127,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 11366,
+            "total_element_pixels": 28127,
+            "area_ratio": 0.40409570874960005
+          },
+          "Poor": {
+            "area_pixels": 27,
+            "total_element_pixels": 28127,
+            "area_ratio": 0.0009599317381875067
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 28127,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 47,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 9992,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 2873,
+            "total_element_pixels": 9992,
+            "area_ratio": 0.28753002401921535
+          },
+          "Poor": {
+            "area_pixels": 702,
+            "total_element_pixels": 9992,
+            "area_ratio": 0.07025620496397118
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 9992,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2412",
+    "file_name": "datasets/semantic/test/images/2412.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 15,
+        "class_name": "Bearing",
+        "total_area_pixels": 357,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 357,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 357,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 357,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 25,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 6363,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 2940,
+            "total_element_pixels": 6363,
+            "area_ratio": 0.46204620462046203
+          },
+          "Poor": {
+            "area_pixels": 816,
+            "total_element_pixels": 6363,
+            "area_ratio": 0.12824139556812825
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 6363,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 35,
+        "class_name": "Bearing",
+        "total_area_pixels": 2723,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1088,
+            "total_element_pixels": 2723,
+            "area_ratio": 0.3995593095850165
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 2723,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 2723,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2442",
+    "file_name": "datasets/semantic/test/images/2442.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 2,
+        "class_name": "Bearing",
+        "total_area_pixels": 355,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 355,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 355,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 355,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 34,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 1158,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 1158,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 1158,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 1158,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 46,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 432,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 432,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 432,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 432,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 47,
+        "class_name": "Bearing",
+        "total_area_pixels": 55075,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 7879,
+            "total_element_pixels": 55075,
+            "area_ratio": 0.14305946436677258
+          },
+          "Poor": {
+            "area_pixels": 33017,
+            "total_element_pixels": 55075,
+            "area_ratio": 0.5994916023604177
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 55075,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 57,
+        "class_name": "Bearing",
+        "total_area_pixels": 298,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 298,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 298,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 298,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 93,
+        "class_name": "Bearing",
+        "total_area_pixels": 117,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 117,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 117,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 117,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 95,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 787,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 787,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 787,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 787,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2642",
+    "file_name": "datasets/semantic/test/images/2642.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 45,
+        "class_name": "Bearing",
+        "total_area_pixels": 3705,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 67,
+            "total_element_pixels": 3705,
+            "area_ratio": 0.01808367071524966
+          },
+          "Poor": {
+            "area_pixels": 3262,
+            "total_element_pixels": 3705,
+            "area_ratio": 0.8804318488529015
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 3705,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 68,
+        "class_name": "Gusset Plate Connection",
+        "total_area_pixels": 13018,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1962,
+            "total_element_pixels": 13018,
+            "area_ratio": 0.15071439545245047
+          },
+          "Poor": {
+            "area_pixels": 313,
+            "total_element_pixels": 13018,
+            "area_ratio": 0.0240436318943002
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 13018,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 94,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 4746,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1560,
+            "total_element_pixels": 4746,
+            "area_ratio": 0.32869785082174463
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 4746,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 4746,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "2755",
+    "file_name": "datasets/semantic/test/images/2755.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 29,
+        "class_name": "Gusset Plate Connection",
+        "total_area_pixels": 12891,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 8974,
+            "total_element_pixels": 12891,
+            "area_ratio": 0.6961445970056629
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 12891,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 12891,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 38,
+        "class_name": "Bearing",
+        "total_area_pixels": 23333,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 20862,
+            "total_element_pixels": 23333,
+            "area_ratio": 0.8940984871212446
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 23333,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 23333,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 40,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 9575,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 7261,
+            "total_element_pixels": 9575,
+            "area_ratio": 0.7583289817232376
+          },
+          "Poor": {
+            "area_pixels": 201,
+            "total_element_pixels": 9575,
+            "area_ratio": 0.020992167101827677
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 9575,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 92,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 2758,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 350,
+            "total_element_pixels": 2758,
+            "area_ratio": 0.12690355329949238
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 2758,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 2758,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "431",
+    "file_name": "datasets/semantic/test/images/431.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 34,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 12196,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 87,
+            "total_element_pixels": 12196,
+            "area_ratio": 0.007133486388979994
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 12196,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 12196,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 39,
+        "class_name": "Bearing",
+        "total_area_pixels": 21926,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1930,
+            "total_element_pixels": 21926,
+            "area_ratio": 0.08802335127246191
+          },
+          "Poor": {
+            "area_pixels": 13253,
+            "total_element_pixels": 21926,
+            "area_ratio": 0.6044422147222476
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 21926,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "545",
+    "file_name": "datasets/semantic/test/images/545.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 6,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 4699,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 543,
+            "total_element_pixels": 4699,
+            "area_ratio": 0.11555650138327303
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 4699,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 4699,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 37,
+        "class_name": "Bearing",
+        "total_area_pixels": 87198,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 19626,
+            "total_element_pixels": 87198,
+            "area_ratio": 0.2250739695864584
+          },
+          "Poor": {
+            "area_pixels": 13315,
+            "total_element_pixels": 87198,
+            "area_ratio": 0.15269845638661436
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 87198,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 51,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 4022,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 2309,
+            "total_element_pixels": 4022,
+            "area_ratio": 0.5740924912978618
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 4022,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 4022,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 52,
+        "class_name": "Bearing",
+        "total_area_pixels": 29115,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 15001,
+            "total_element_pixels": 29115,
+            "area_ratio": 0.5152326979220333
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 29115,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 29115,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "570",
+    "file_name": "datasets/semantic/test/images/570.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 31,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 16667,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 1551,
+            "total_element_pixels": 16667,
+            "area_ratio": 0.09305813883722326
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 16667,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 16667,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 43,
+        "class_name": "Bearing",
+        "total_area_pixels": 6164,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 106,
+            "total_element_pixels": 6164,
+            "area_ratio": 0.01719662556781311
+          },
+          "Poor": {
+            "area_pixels": 5703,
+            "total_element_pixels": 6164,
+            "area_ratio": 0.9252109020116808
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 6164,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 71,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 11100,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 31,
+            "total_element_pixels": 11100,
+            "area_ratio": 0.002792792792792793
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 11100,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 11100,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "713",
+    "file_name": "datasets/semantic/test/images/713.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 43,
+        "class_name": "Gusset Plate Connection",
+        "total_area_pixels": 86382,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 84972,
+            "total_element_pixels": 86382,
+            "area_ratio": 0.9836771549628395
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 86382,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 86382,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "79",
+    "file_name": "datasets/semantic/test/images/79.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 23,
+        "class_name": "Bearing",
+        "total_area_pixels": 2706,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 257,
+            "total_element_pixels": 2706,
+            "area_ratio": 0.09497413155949741
+          },
+          "Poor": {
+            "area_pixels": 2113,
+            "total_element_pixels": 2706,
+            "area_ratio": 0.7808573540280858
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 2706,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 29,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 3785,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 666,
+            "total_element_pixels": 3785,
+            "area_ratio": 0.17595772787318362
+          },
+          "Poor": {
+            "area_pixels": 18,
+            "total_element_pixels": 3785,
+            "area_ratio": 0.0047556142668428005
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 3785,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 38,
+        "class_name": "Out of Plane Stiffener",
+        "total_area_pixels": 3706,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 681,
+            "total_element_pixels": 3706,
+            "area_ratio": 0.1837560712358338
+          },
+          "Poor": {
+            "area_pixels": 2307,
+            "total_element_pixels": 3706,
+            "area_ratio": 0.6225040474905559
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 3706,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 41,
+        "class_name": "Bearing",
+        "total_area_pixels": 6232,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 5929,
+            "total_element_pixels": 6232,
+            "area_ratio": 0.951379974326059
+          },
+          "Poor": {
+            "area_pixels": 189,
+            "total_element_pixels": 6232,
+            "area_ratio": 0.030327342747111682
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 6232,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "image_id": "979",
+    "file_name": "datasets/semantic/test/images/979.jpeg",
+    "width": 512,
+    "height": 512,
+    "structural_elements": [
+      {
+        "element_id": 32,
+        "class_name": "Gusset Plate Connection",
+        "total_area_pixels": 16242,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 0,
+            "total_element_pixels": 16242,
+            "area_ratio": 0.0
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 16242,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 16242,
+            "area_ratio": 0.0
+          }
+        }
+      },
+      {
+        "element_id": 42,
+        "class_name": "Bearing",
+        "total_area_pixels": 10540,
+        "corrosion_areas": {
+          "Fair": {
+            "area_pixels": 7443,
+            "total_element_pixels": 10540,
+            "area_ratio": 0.7061669829222011
+          },
+          "Poor": {
+            "area_pixels": 0,
+            "total_element_pixels": 10540,
+            "area_ratio": 0.0
+          },
+          "Severe": {
+            "area_pixels": 0,
+            "total_element_pixels": 10540,
+            "area_ratio": 0.0
+          }
+        }
+      }
+    ]
+  }
+]

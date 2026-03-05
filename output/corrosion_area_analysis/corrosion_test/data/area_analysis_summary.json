@@ -1,0 +1,527 @@
+{
+  "total_images": 20,
+  "total_elements": 63,
+  "element_stats": {
+    "Out of Plane Stiffener": {
+      "count": 31,
+      "total_area": 239076,
+      "corrosion_areas": {
+        "Background": 0,
+        "Fair": {
+          "area_pixels": 54942,
+          "percentage": 22.980976760528034
+        },
+        "Poor": {
+          "area_pixels": 33812,
+          "percentage": 14.142783048068397
+        },
+        "Severe": {
+          "area_pixels": 3371,
+          "percentage": 1.4100118790677443
+        }
+      }
+    },
+    "Bearing": {
+      "count": 27,
+      "total_area": 598982,
+      "corrosion_areas": {
+        "Background": 0,
+        "Fair": {
+          "area_pixels": 207440,
+          "percentage": 34.63209245019049
+        },
+        "Poor": {
+          "area_pixels": 201275,
+          "percentage": 33.602846162322074
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      }
+    },
+    "Gusset Plate Connection": {
+      "count": 5,
+      "total_area": 131683,
+      "corrosion_areas": {
+        "Background": 0,
+        "Fair": {
+          "area_pixels": 95908,
+          "percentage": 72.83248407159618
+        },
+        "Poor": {
+          "area_pixels": 313,
+          "percentage": 0.23769203314019274
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      }
+    }
+  },
+  "image_stats": {
+    "1008": {
+      "file_name": "datasets/semantic/test/images/1008.jpeg",
+      "num_elements": 4,
+      "element_types": {
+        "Out of Plane Stiffener": 2,
+        "Bearing": 2
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 14466,
+          "percentage": 37.64050791007494
+        },
+        "Poor": {
+          "area_pixels": 1630,
+          "percentage": 4.241257285595338
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 38432
+    },
+    "1233": {
+      "file_name": "datasets/semantic/test/images/1233.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Bearing": 1,
+        "Out of Plane Stiffener": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 18968,
+          "percentage": 47.5710380457954
+        },
+        "Poor": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 39873
+    },
+    "1522": {
+      "file_name": "datasets/semantic/test/images/1522.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Bearing": 1,
+        "Out of Plane Stiffener": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 31082,
+          "percentage": 49.69144684252598
+        },
+        "Poor": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 62550
+    },
+    "1528": {
+      "file_name": "datasets/semantic/test/images/1528.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Bearing": 1,
+        "Out of Plane Stiffener": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 11465,
+          "percentage": 53.91488361156831
+        },
+        "Poor": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 21265
+    },
+    "16": {
+      "file_name": "datasets/semantic/test/images/16.jpeg",
+      "num_elements": 4,
+      "element_types": {
+        "Out of Plane Stiffener": 2,
+        "Bearing": 2
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 2016,
+          "percentage": 2.023852547885797
+        },
+        "Poor": {
+          "area_pixels": 82761,
+          "percentage": 83.08336345018672
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 99612
+    },
+    "1995": {
+      "file_name": "datasets/semantic/test/images/1995.jpeg",
+      "num_elements": 3,
+      "element_types": {
+        "Out of Plane Stiffener": 2,
+        "Bearing": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 18099,
+          "percentage": 27.692519546490814
+        },
+        "Poor": {
+          "area_pixels": 35375,
+          "percentage": 54.12580136787184
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 65357
+    },
+    "2065": {
+      "file_name": "datasets/semantic/test/images/2065.jpeg",
+      "num_elements": 3,
+      "element_types": {
+        "Out of Plane Stiffener": 2,
+        "Bearing": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 3472,
+          "percentage": 11.765901928225288
+        },
+        "Poor": {
+          "area_pixels": 11312,
+          "percentage": 38.334067572604965
+        },
+        "Severe": {
+          "area_pixels": 3371,
+          "percentage": 11.4236334677556
+        }
+      },
+      "total_area": 29509
+    },
+    "23": {
+      "file_name": "datasets/semantic/test/images/23.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Out of Plane Stiffener": 1,
+        "Bearing": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 44844,
+          "percentage": 52.48165529509521
+        },
+        "Poor": {
+          "area_pixels": 29085,
+          "percentage": 34.03864383770056
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 85447
+    },
+    "2302": {
+      "file_name": "datasets/semantic/test/images/2302.jpeg",
+      "num_elements": 6,
+      "element_types": {
+        "Out of Plane Stiffener": 4,
+        "Bearing": 1,
+        "Gusset Plate Connection": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 5564,
+          "percentage": 19.05087995617339
+        },
+        "Poor": {
+          "area_pixels": 1,
+          "percentage": 0.0034239539820584814
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 29206
+    },
+    "2369": {
+      "file_name": "datasets/semantic/test/images/2369.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Bearing": 1,
+        "Out of Plane Stiffener": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 14239,
+          "percentage": 37.35407539547207
+        },
+        "Poor": {
+          "area_pixels": 729,
+          "percentage": 1.91243212046486
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 38119
+    },
+    "2412": {
+      "file_name": "datasets/semantic/test/images/2412.jpeg",
+      "num_elements": 3,
+      "element_types": {
+        "Bearing": 2,
+        "Out of Plane Stiffener": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 4028,
+          "percentage": 42.6559356136821
+        },
+        "Poor": {
+          "area_pixels": 816,
+          "percentage": 8.64132161389389
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 9443
+    },
+    "2442": {
+      "file_name": "datasets/semantic/test/images/2442.jpeg",
+      "num_elements": 7,
+      "element_types": {
+        "Bearing": 4,
+        "Out of Plane Stiffener": 3
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 7879,
+          "percentage": 13.53268523925664
+        },
+        "Poor": {
+          "area_pixels": 33017,
+          "percentage": 56.70880423207723
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 58222
+    },
+    "2642": {
+      "file_name": "datasets/semantic/test/images/2642.jpeg",
+      "num_elements": 3,
+      "element_types": {
+        "Bearing": 1,
+        "Gusset Plate Connection": 1,
+        "Out of Plane Stiffener": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 3589,
+          "percentage": 16.71712702035493
+        },
+        "Poor": {
+          "area_pixels": 3575,
+          "percentage": 16.651916717127023
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 21469
+    },
+    "2755": {
+      "file_name": "datasets/semantic/test/images/2755.jpeg",
+      "num_elements": 4,
+      "element_types": {
+        "Gusset Plate Connection": 1,
+        "Bearing": 1,
+        "Out of Plane Stiffener": 2
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 37447,
+          "percentage": 77.11967378544803
+        },
+        "Poor": {
+          "area_pixels": 201,
+          "percentage": 0.41394649587083215
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 48557
+    },
+    "431": {
+      "file_name": "datasets/semantic/test/images/431.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Out of Plane Stiffener": 1,
+        "Bearing": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 2017,
+          "percentage": 5.911142371490534
+        },
+        "Poor": {
+          "area_pixels": 13253,
+          "percentage": 38.84004454604067
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 34122
+    },
+    "545": {
+      "file_name": "datasets/semantic/test/images/545.jpeg",
+      "num_elements": 4,
+      "element_types": {
+        "Out of Plane Stiffener": 2,
+        "Bearing": 2
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 37479,
+          "percentage": 29.97504678727386
+        },
+        "Poor": {
+          "area_pixels": 13315,
+          "percentage": 10.64910344386327
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 125034
+    },
+    "570": {
+      "file_name": "datasets/semantic/test/images/570.jpeg",
+      "num_elements": 3,
+      "element_types": {
+        "Out of Plane Stiffener": 2,
+        "Bearing": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 1688,
+          "percentage": 4.97480180366037
+        },
+        "Poor": {
+          "area_pixels": 5703,
+          "percentage": 16.80763903215349
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 33931
+    },
+    "713": {
+      "file_name": "datasets/semantic/test/images/713.jpeg",
+      "num_elements": 1,
+      "element_types": {
+        "Gusset Plate Connection": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 84972,
+          "percentage": 98.36771549628395
+        },
+        "Poor": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 86382
+    },
+    "79": {
+      "file_name": "datasets/semantic/test/images/79.jpeg",
+      "num_elements": 4,
+      "element_types": {
+        "Bearing": 2,
+        "Out of Plane Stiffener": 2
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 7533,
+          "percentage": 45.85184734311279
+        },
+        "Poor": {
+          "area_pixels": 4627,
+          "percentage": 28.163613123135917
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 16429
+    },
+    "979": {
+      "file_name": "datasets/semantic/test/images/979.jpeg",
+      "num_elements": 2,
+      "element_types": {
+        "Gusset Plate Connection": 1,
+        "Bearing": 1
+      },
+      "corrosion_areas": {
+        "Fair": {
+          "area_pixels": 7443,
+          "percentage": 27.791053692778732
+        },
+        "Poor": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        },
+        "Severe": {
+          "area_pixels": 0,
+          "percentage": 0.0
+        }
+      },
+      "total_area": 26782
+    }
+  }
+}

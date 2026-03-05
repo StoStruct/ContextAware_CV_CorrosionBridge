@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Mask2Former Semantic (corrosion_test) Evaluation Report</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Mask2Former Semantic (corrosion_test) Evaluation
+Report</h1>
+</header>
+<h1
+id="mask2former-swin-base-semantic-evaluation-summary">Mask2Former-Swin-Base-Semantic
+Evaluation Summary</h1>
+<h2 id="dataset-information">Dataset Information</h2>
+<ul>
+<li>Dataset: corrosion_test</li>
+<li>Number of images: 20</li>
+<li>Classes: Background, Fair, Poor, Severe</li>
+</ul>
+<h2 id="standard-metrics">Standard Metrics</h2>
+<ul>
+<li>mIoU: 66.3005</li>
+<li>fwIoU: 87.8386</li>
+</ul>
+<h3 id="per-class-iou">Per-Class IoU</h3>
+<ul>
+<li>Background: 93.9069</li>
+<li>Fair: 74.4863</li>
+<li>Poor: 63.9882</li>
+<li>Severe: 32.8206</li>
+</ul>
+<h2 id="f1-scores">F1 Scores</h2>
+<ul>
+<li>Background: F1=0.9686 (P=0.9608, R=0.9765)</li>
+<li>Fair: F1=0.8538 (P=0.8985, R=0.8133)</li>
+<li>Poor: F1=0.7804 (P=0.7128, R=0.8622)</li>
+<li>Severe: F1=0.4942 (P=0.9296, R=0.3366)</li>
+<li>Macro Average: F1=0.7742 (P=0.8754, R=0.7472)</li>
+</ul>
+<h2 id="boundary-accuracy-analysis">Boundary Accuracy Analysis</h2>
+<p>Analysis of segmentation performance near boundaries:</p>
+<h3 id="boundary-width-1px">Boundary Width: 1px</h3>
+<ul>
+<li>Mean IoU: nan</li>
+<li>Per-class boundary IoU: ### Boundary Width: 2px</li>
+<li>Mean IoU: 0.0752</li>
+<li>Per-class boundary IoU:
+<ul>
+<li>Background: 0.0897</li>
+<li>Fair: 0.0808</li>
+<li>Poor: 0.0771</li>
+<li>Severe: 0.0533 ### Boundary Width: 3px</li>
+</ul></li>
+<li>Mean IoU: 0.1363</li>
+<li>Per-class boundary IoU:
+<ul>
+<li>Background: 0.1632</li>
+<li>Fair: 0.1451</li>
+<li>Poor: 0.1370</li>
+<li>Severe: 0.0998 ### Boundary Width: 5px</li>
+</ul></li>
+<li>Mean IoU: 0.2465</li>
+<li>Per-class boundary IoU:
+<ul>
+<li>Background: 0.2953</li>
+<li>Fair: 0.2612</li>
+<li>Poor: 0.2467</li>
+<li>Severe: 0.1828 ### Boundary Width: 10px</li>
+</ul></li>
+<li>Mean IoU: 0.4295</li>
+<li>Per-class boundary IoU:
+<ul>
+<li>Background: 0.4967</li>
+<li>Fair: 0.4547</li>
+<li>Poor: 0.4294</li>
+<li>Severe: 0.3374</li>
+</ul></li>
+</ul>
+<figure>
+<img src="plots/boundary_analysis.png" alt="Boundary Analysis" />
+<figcaption aria-hidden="true">Boundary Analysis</figcaption>
+</figure>
+<h2 id="size-sensitivity-analysis">Size Sensitivity Analysis</h2>
+<p>Analysis of performance on different image sizes:</p>
+<ul>
+<li>Small images (20): Mean IoU = 0.7483, Median IoU = 0.7883, Std =
+0.1483</li>
+</ul>
+<figure>
+<img src="plots/size_sensitivity.png" alt="Size Sensitivity Analysis" />
+<figcaption aria-hidden="true">Size Sensitivity Analysis</figcaption>
+</figure>
+<h2 id="model-performance-analysis">Model Performance Analysis</h2>
+<ul>
+<li>Model size: 407.73 MB</li>
+<li>Total parameters: 106,884,669</li>
+<li>Trainable parameters: 106,884,669</li>
+<li>Average inference time: 0.0342s</li>
+<li>Frames per second: 29.23 FPS</li>
+</ul>
+<h2 id="error-analysis">Error Analysis</h2>
+<p>The 10 worst performing images have been visualized in the
+<code>visualizations/worst_cases/</code> directory to help identify
+common failure patterns.</p>
+<h2 id="training-history">Training History</h2>
+<figure>
+<img src="plots/training_history.png" alt="Training History" />
+<figcaption aria-hidden="true">Training History</figcaption>
+</figure>
+<h2 id="visualizations">Visualizations</h2>
+<p>See the <code>visualizations</code> directory for prediction
+examples.</p>
+<h2 id="plots">Plots</h2>
+<ul>
+<li>Confusion matrix: <code>plots/confusion_matrix_counts.png</code> and
+<code>plots/confusion_matrix_normalized.png</code></li>
+<li>F1 scores: <code>plots/f1_scores.png</code></li>
+<li>Per-image IoU: <code>plots/per_image_iou.png</code></li>
+<li>Training history: <code>plots/training_history.png</code></li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,339 @@
+Image Index,Image File,Element ID,Element Type,Total Area (px),Fair Area (px),Fair (%),Poor Area (px),Poor (%),Severe Area (px),Severe (%)
+0,101.jpeg,27,Bearing,24172,3598,14.88%,0,0.00%,0,0.00%
+0,101.jpeg,40,Bearing,71859,35867,49.91%,9837,13.69%,0,0.00%
+1,105.jpeg,9,Out of Plane Stiffener,2699,0,0.00%,0,0.00%,0,0.00%
+1,105.jpeg,17,Out of Plane Stiffener,2008,0,0.00%,0,0.00%,0,0.00%
+1,105.jpeg,29,Out of Plane Stiffener,1450,269,18.55%,0,0.00%,0,0.00%
+1,105.jpeg,38,Out of Plane Stiffener,980,65,6.63%,0,0.00%,0,0.00%
+1,105.jpeg,48,Bearing,5235,1295,24.74%,0,0.00%,0,0.00%
+1,105.jpeg,76,Bearing,5657,1752,30.97%,0,0.00%,0,0.00%
+1,105.jpeg,93,Out of Plane Stiffener,1427,0,0.00%,0,0.00%,0,0.00%
+2,106.jpeg,37,Out of Plane Stiffener,6307,0,0.00%,0,0.00%,0,0.00%
+2,106.jpeg,38,Bearing,29497,6709,22.74%,0,0.00%,0,0.00%
+3,107.jpeg,77,Out of Plane Stiffener,9366,6,0.06%,0,0.00%,0,0.00%
+4,124.jpeg,29,Out of Plane Stiffener,9654,8903,92.22%,0,0.00%,0,0.00%
+4,124.jpeg,41,Bearing,20264,17859,88.13%,0,0.00%,0,0.00%
+5,125.jpeg,28,Out of Plane Stiffener,14923,14578,97.69%,0,0.00%,0,0.00%
+5,125.jpeg,29,Out of Plane Stiffener,13781,13725,99.59%,0,0.00%,0,0.00%
+5,125.jpeg,44,Bearing,16238,13338,82.14%,0,0.00%,0,0.00%
+5,125.jpeg,54,Bearing,10679,7706,72.16%,0,0.00%,0,0.00%
+6,126.jpeg,21,Out of Plane Stiffener,11879,10252,86.30%,0,0.00%,0,0.00%
+6,126.jpeg,38,Bearing,28754,20017,69.61%,2038,7.09%,62,0.22%
+6,126.jpeg,58,Bearing,6389,1058,16.56%,0,0.00%,0,0.00%
+6,126.jpeg,82,Out of Plane Stiffener,17161,16806,97.93%,0,0.00%,0,0.00%
+7,128.jpeg,34,Bearing,1526,576,37.75%,0,0.00%,0,0.00%
+7,128.jpeg,36,Bearing,7780,5550,71.34%,0,0.00%,0,0.00%
+8,134.jpeg,19,Bearing,920,0,0.00%,0,0.00%,0,0.00%
+8,134.jpeg,34,Out of Plane Stiffener,9285,379,4.08%,0,0.00%,0,0.00%
+8,134.jpeg,49,Bearing,799,0,0.00%,0,0.00%,0,0.00%
+8,134.jpeg,55,Bearing,15428,1028,6.66%,0,0.00%,0,0.00%
+9,140.jpeg,6,Bearing,8391,6538,77.92%,782,9.32%,0,0.00%
+9,140.jpeg,19,Bearing,2205,0,0.00%,0,0.00%,0,0.00%
+9,140.jpeg,28,Out of Plane Stiffener,8897,4777,53.69%,0,0.00%,0,0.00%
+9,140.jpeg,40,Bearing,30214,12837,42.49%,14030,46.44%,0,0.00%
+9,140.jpeg,93,Out of Plane Stiffener,9992,9992,100.00%,0,0.00%,0,0.00%
+10,147.jpeg,6,Out of Plane Stiffener,3650,0,0.00%,0,0.00%,0,0.00%
+10,147.jpeg,25,Out of Plane Stiffener,3487,0,0.00%,0,0.00%,0,0.00%
+10,147.jpeg,37,Bearing,11036,0,0.00%,0,0.00%,0,0.00%
+10,147.jpeg,47,Bearing,16330,0,0.00%,0,0.00%,0,0.00%
+11,149.jpeg,20,Bearing,5010,281,5.61%,0,0.00%,0,0.00%
+11,149.jpeg,26,Out of Plane Stiffener,16606,0,0.00%,0,0.00%,0,0.00%
+11,149.jpeg,37,Bearing,50140,14196,28.31%,0,0.00%,0,0.00%
+11,149.jpeg,55,Bearing,20380,1,0.00%,0,0.00%,0,0.00%
+11,149.jpeg,97,Out of Plane Stiffener,859,0,0.00%,0,0.00%,0,0.00%
+12,152.jpeg,39,Bearing,35847,0,0.00%,33880,94.51%,0,0.00%
+13,154.jpeg,8,Out of Plane Stiffener,7519,846,11.25%,0,0.00%,0,0.00%
+13,154.jpeg,14,Bearing,15001,927,6.18%,11753,78.35%,0,0.00%
+13,154.jpeg,41,Bearing,24307,10,0.04%,13548,55.74%,0,0.00%
+13,154.jpeg,57,Out of Plane Stiffener,1937,368,19.00%,687,35.47%,0,0.00%
+13,154.jpeg,68,Out of Plane Stiffener,3037,0,0.00%,2987,98.35%,0,0.00%
+13,154.jpeg,73,Gusset Plate Connection,10651,2744,25.76%,0,0.00%,0,0.00%
+13,154.jpeg,98,Out of Plane Stiffener,2522,0,0.00%,2245,89.02%,0,0.00%
+14,156.jpeg,2,Gusset Plate Connection,4152,1864,44.89%,377,9.08%,0,0.00%
+14,156.jpeg,29,Out of Plane Stiffener,12341,0,0.00%,39,0.32%,0,0.00%
+14,156.jpeg,40,Bearing,12523,11,0.09%,10705,85.48%,0,0.00%
+14,156.jpeg,68,Out of Plane Stiffener,12335,201,1.63%,39,0.32%,0,0.00%
+15,164.jpeg,26,Out of Plane Stiffener,14287,0,0.00%,0,0.00%,0,0.00%
+15,164.jpeg,27,Out of Plane Stiffener,21952,0,0.00%,0,0.00%,0,0.00%
+15,164.jpeg,36,Bearing,23415,0,0.00%,0,0.00%,0,0.00%
+15,164.jpeg,67,Bearing,3996,0,0.00%,0,0.00%,0,0.00%
+16,165.jpeg,33,Out of Plane Stiffener,17205,0,0.00%,0,0.00%,0,0.00%
+16,165.jpeg,35,Out of Plane Stiffener,250,0,0.00%,0,0.00%,0,0.00%
+16,165.jpeg,43,Bearing,10485,1436,13.70%,0,0.00%,0,0.00%
+16,165.jpeg,53,Bearing,3251,0,0.00%,0,0.00%,0,0.00%
+16,165.jpeg,95,Out of Plane Stiffener,5167,0,0.00%,0,0.00%,0,0.00%
+16,165.jpeg,98,Out of Plane Stiffener,487,0,0.00%,0,0.00%,0,0.00%
+17,170.jpeg,41,Bearing,57245,6963,12.16%,0,0.00%,0,0.00%
+18,177.jpeg,27,Gusset Plate Connection,2349,0,0.00%,0,0.00%,0,0.00%
+18,177.jpeg,28,Out of Plane Stiffener,2124,0,0.00%,0,0.00%,0,0.00%
+18,177.jpeg,30,Out of Plane Stiffener,7458,29,0.39%,0,0.00%,0,0.00%
+18,177.jpeg,39,Bearing,17907,0,0.00%,0,0.00%,0,0.00%
+18,177.jpeg,83,Out of Plane Stiffener,1612,0,0.00%,0,0.00%,0,0.00%
+19,183.jpeg,10,Out of Plane Stiffener,6704,0,0.00%,0,0.00%,0,0.00%
+19,183.jpeg,31,Out of Plane Stiffener,6981,2597,37.20%,0,0.00%,0,0.00%
+19,183.jpeg,40,Bearing,2073,751,36.23%,0,0.00%,0,0.00%
+19,183.jpeg,49,Bearing,2581,440,17.05%,0,0.00%,0,0.00%
+19,183.jpeg,75,Bearing,1173,267,22.76%,0,0.00%,0,0.00%
+19,183.jpeg,78,Out of Plane Stiffener,6097,966,15.84%,0,0.00%,0,0.00%
+20,188.jpeg,32,Out of Plane Stiffener,27846,18243,65.51%,6623,23.78%,0,0.00%
+20,188.jpeg,33,Out of Plane Stiffener,10235,7846,76.66%,2297,22.44%,0,0.00%
+20,188.jpeg,44,Bearing,26712,13661,51.14%,0,0.00%,0,0.00%
+20,188.jpeg,78,Bearing,38883,26445,68.01%,0,0.00%,0,0.00%
+21,191.jpeg,16,Gusset Plate Connection,1691,0,0.00%,0,0.00%,0,0.00%
+21,191.jpeg,39,Bearing,4380,0,0.00%,0,0.00%,0,0.00%
+21,191.jpeg,70,Out of Plane Stiffener,1271,0,0.00%,0,0.00%,0,0.00%
+21,191.jpeg,75,Out of Plane Stiffener,1458,225,15.43%,0,0.00%,0,0.00%
+21,191.jpeg,81,Out of Plane Stiffener,1797,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,14,Out of Plane Stiffener,1409,205,14.55%,0,0.00%,0,0.00%
+22,193.jpeg,18,Out of Plane Stiffener,142,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,20,Out of Plane Stiffener,876,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,26,Out of Plane Stiffener,3671,634,17.27%,0,0.00%,0,0.00%
+22,193.jpeg,40,Out of Plane Stiffener,2023,1544,76.32%,0,0.00%,0,0.00%
+22,193.jpeg,41,Out of Plane Stiffener,298,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,42,Out of Plane Stiffener,1391,49,3.52%,0,0.00%,0,0.00%
+22,193.jpeg,49,Out of Plane Stiffener,412,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,50,Out of Plane Stiffener,726,704,96.97%,0,0.00%,0,0.00%
+22,193.jpeg,53,Gusset Plate Connection,132,95,71.97%,0,0.00%,0,0.00%
+22,193.jpeg,54,Out of Plane Stiffener,133,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,55,Out of Plane Stiffener,153,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,57,Gusset Plate Connection,1027,749,72.93%,0,0.00%,0,0.00%
+22,193.jpeg,66,Out of Plane Stiffener,534,150,28.09%,0,0.00%,0,0.00%
+22,193.jpeg,67,Out of Plane Stiffener,473,276,58.35%,0,0.00%,0,0.00%
+22,193.jpeg,81,Out of Plane Stiffener,528,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,83,Out of Plane Stiffener,2818,641,22.75%,0,0.00%,0,0.00%
+22,193.jpeg,87,Gusset Plate Connection,279,0,0.00%,0,0.00%,0,0.00%
+22,193.jpeg,92,Gusset Plate Connection,506,55,10.87%,0,0.00%,0,0.00%
+23,195.jpeg,5,Out of Plane Stiffener,5359,3689,68.84%,0,0.00%,0,0.00%
+23,195.jpeg,27,Gusset Plate Connection,7842,7396,94.31%,0,0.00%,0,0.00%
+23,195.jpeg,29,Out of Plane Stiffener,8173,6525,79.84%,0,0.00%,0,0.00%
+23,195.jpeg,30,Out of Plane Stiffener,5229,19,0.36%,0,0.00%,0,0.00%
+23,195.jpeg,39,Bearing,12631,9057,71.70%,0,0.00%,0,0.00%
+24,198.jpeg,4,Out of Plane Stiffener,2012,1923,95.58%,0,0.00%,0,0.00%
+24,198.jpeg,17,Out of Plane Stiffener,4016,2366,58.91%,0,0.00%,0,0.00%
+24,198.jpeg,23,Gusset Plate Connection,7674,6631,86.41%,0,0.00%,0,0.00%
+24,198.jpeg,37,Bearing,21112,16333,77.36%,0,0.00%,0,0.00%
+24,198.jpeg,52,Bearing,14073,12209,86.75%,0,0.00%,0,0.00%
+24,198.jpeg,77,Out of Plane Stiffener,1067,681,63.82%,0,0.00%,0,0.00%
+24,198.jpeg,78,Out of Plane Stiffener,1012,0,0.00%,0,0.00%,0,0.00%
+24,198.jpeg,95,Gusset Plate Connection,6191,6074,98.11%,0,0.00%,0,0.00%
+25,20.jpeg,35,Bearing,20418,10935,53.56%,0,0.00%,0,0.00%
+26,202.jpeg,38,Bearing,91816,83978,91.46%,138,0.15%,0,0.00%
+27,204.jpeg,34,Bearing,9742,5290,54.30%,4,0.04%,0,0.00%
+27,204.jpeg,63,Out of Plane Stiffener,7772,11,0.14%,248,3.19%,0,0.00%
+28,209.jpeg,3,Out of Plane Stiffener,2936,832,28.34%,171,5.82%,0,0.00%
+28,209.jpeg,35,Bearing,4122,2888,70.06%,522,12.66%,0,0.00%
+29,212.jpeg,30,Out of Plane Stiffener,3413,126,3.69%,263,7.71%,0,0.00%
+29,212.jpeg,43,Bearing,6795,0,0.00%,6635,97.65%,0,0.00%
+30,217.jpeg,5,Out of Plane Stiffener,15654,0,0.00%,15654,100.00%,0,0.00%
+30,217.jpeg,21,Bearing,7351,6696,91.09%,3,0.04%,0,0.00%
+30,217.jpeg,27,Out of Plane Stiffener,6320,186,2.94%,133,2.10%,0,0.00%
+30,217.jpeg,38,Bearing,29944,49,0.16%,29543,98.66%,0,0.00%
+30,217.jpeg,39,Out of Plane Stiffener,21681,80,0.37%,21545,99.37%,0,0.00%
+31,220.jpeg,29,Gusset Plate Connection,6004,106,1.77%,0,0.00%,0,0.00%
+31,220.jpeg,38,Gusset Plate Connection,5988,0,0.00%,0,0.00%,0,0.00%
+31,220.jpeg,65,Out of Plane Stiffener,1197,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,5,Out of Plane Stiffener,9520,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,12,Gusset Plate Connection,3033,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,16,Gusset Plate Connection,180,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,27,Out of Plane Stiffener,7595,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,30,Bearing,608,64,10.53%,0,0.00%,0,0.00%
+32,222.jpeg,32,Out of Plane Stiffener,4485,501,11.17%,122,2.72%,0,0.00%
+32,222.jpeg,34,Gusset Plate Connection,354,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,35,Out of Plane Stiffener,1237,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,39,Out of Plane Stiffener,4162,581,13.96%,0,0.00%,0,0.00%
+32,222.jpeg,47,Gusset Plate Connection,1836,1836,100.00%,0,0.00%,0,0.00%
+32,222.jpeg,48,Bearing,4947,3114,62.95%,0,0.00%,0,0.00%
+32,222.jpeg,52,Gusset Plate Connection,1925,1,0.05%,0,0.00%,0,0.00%
+32,222.jpeg,56,Out of Plane Stiffener,3017,2878,95.39%,0,0.00%,0,0.00%
+32,222.jpeg,71,Bearing,5813,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,86,Gusset Plate Connection,761,118,15.51%,0,0.00%,0,0.00%
+32,222.jpeg,93,Out of Plane Stiffener,831,183,22.02%,0,0.00%,0,0.00%
+32,222.jpeg,94,Gusset Plate Connection,910,0,0.00%,0,0.00%,0,0.00%
+32,222.jpeg,96,Gusset Plate Connection,1005,972,96.72%,0,0.00%,0,0.00%
+33,237.jpeg,26,Out of Plane Stiffener,14617,0,0.00%,0,0.00%,0,0.00%
+33,237.jpeg,27,Out of Plane Stiffener,6842,0,0.00%,0,0.00%,0,0.00%
+33,237.jpeg,30,Out of Plane Stiffener,8152,6695,82.13%,0,0.00%,0,0.00%
+33,237.jpeg,35,Gusset Plate Connection,23163,6,0.03%,0,0.00%,0,0.00%
+33,237.jpeg,37,Out of Plane Stiffener,22792,21820,95.74%,0,0.00%,0,0.00%
+33,237.jpeg,38,Out of Plane Stiffener,16010,15034,93.90%,0,0.00%,0,0.00%
+34,244.jpeg,3,Out of Plane Stiffener,4935,0,0.00%,0,0.00%,0,0.00%
+34,244.jpeg,5,Gusset Plate Connection,1981,1624,81.98%,0,0.00%,0,0.00%
+34,244.jpeg,9,Out of Plane Stiffener,8719,8615,98.81%,0,0.00%,0,0.00%
+34,244.jpeg,24,Gusset Plate Connection,19580,16337,83.44%,0,0.00%,0,0.00%
+34,244.jpeg,46,Out of Plane Stiffener,6633,113,1.70%,0,0.00%,0,0.00%
+34,244.jpeg,48,Gusset Plate Connection,1065,0,0.00%,0,0.00%,0,0.00%
+34,244.jpeg,56,Out of Plane Stiffener,11183,2887,25.82%,0,0.00%,0,0.00%
+34,244.jpeg,69,Out of Plane Stiffener,3419,95,2.78%,0,0.00%,0,0.00%
+35,245.jpeg,22,Bearing,2597,0,0.00%,2293,88.29%,0,0.00%
+35,245.jpeg,28,Out of Plane Stiffener,7127,238,3.34%,6298,88.37%,0,0.00%
+35,245.jpeg,35,Out of Plane Stiffener,629,0,0.00%,0,0.00%,0,0.00%
+35,245.jpeg,41,Bearing,18836,1431,7.60%,17223,91.44%,0,0.00%
+35,245.jpeg,42,Out of Plane Stiffener,8693,1308,15.05%,5691,65.47%,0,0.00%
+35,245.jpeg,50,Bearing,1872,0,0.00%,1665,88.94%,0,0.00%
+36,246.jpeg,41,Out of Plane Stiffener,19564,5729,29.28%,1471,7.52%,0,0.00%
+36,246.jpeg,45,Bearing,24786,9945,40.12%,6391,25.78%,0,0.00%
+37,249.jpeg,4,Out of Plane Stiffener,5589,19,0.34%,281,5.03%,0,0.00%
+37,249.jpeg,6,Out of Plane Stiffener,6009,332,5.53%,3436,57.18%,0,0.00%
+37,249.jpeg,34,Bearing,7425,0,0.00%,7302,98.34%,0,0.00%
+37,249.jpeg,51,Bearing,1939,131,6.76%,1698,87.57%,0,0.00%
+38,269.jpeg,36,Bearing,18050,0,0.00%,18000,99.72%,0,0.00%
+38,269.jpeg,53,Bearing,13365,0,0.00%,13265,99.25%,0,0.00%
+39,279.jpeg,27,Bearing,40581,29444,72.56%,0,0.00%,0,0.00%
+39,279.jpeg,54,Out of Plane Stiffener,341,44,12.90%,0,0.00%,0,0.00%
+39,279.jpeg,55,Bearing,43430,24700,56.87%,0,0.00%,0,0.00%
+40,281.jpeg,2,Out of Plane Stiffener,3577,0,0.00%,3577,100.00%,0,0.00%
+40,281.jpeg,4,Out of Plane Stiffener,220,0,0.00%,0,0.00%,0,0.00%
+40,281.jpeg,34,Out of Plane Stiffener,594,428,72.05%,0,0.00%,0,0.00%
+40,281.jpeg,43,Out of Plane Stiffener,2111,102,4.83%,1734,82.14%,0,0.00%
+40,281.jpeg,44,Bearing,4164,0,0.00%,4121,98.97%,0,0.00%
+40,281.jpeg,74,Bearing,1403,0,0.00%,1112,79.26%,0,0.00%
+40,281.jpeg,94,Out of Plane Stiffener,4630,969,20.93%,2130,46.00%,0,0.00%
+41,286.jpeg,12,Out of Plane Stiffener,5443,2681,49.26%,0,0.00%,0,0.00%
+41,286.jpeg,40,Bearing,4522,2210,48.87%,2158,47.72%,0,0.00%
+41,286.jpeg,52,Bearing,4473,1286,28.75%,0,0.00%,0,0.00%
+42,288.jpeg,26,Out of Plane Stiffener,2999,146,4.87%,0,0.00%,0,0.00%
+42,288.jpeg,37,Bearing,48491,30491,62.88%,13081,26.98%,0,0.00%
+43,296.jpeg,90,Out of Plane Stiffener,228,0,0.00%,0,0.00%,0,0.00%
+43,296.jpeg,93,Out of Plane Stiffener,176,0,0.00%,0,0.00%,0,0.00%
+43,296.jpeg,94,Out of Plane Stiffener,686,0,0.00%,0,0.00%,0,0.00%
+44,297.jpeg,43,Bearing,7216,41,0.57%,7088,98.23%,0,0.00%
+45,298.jpeg,32,Out of Plane Stiffener,10410,1518,14.58%,2142,20.58%,0,0.00%
+45,298.jpeg,37,Bearing,12538,0,0.00%,12538,100.00%,0,0.00%
+45,298.jpeg,93,Out of Plane Stiffener,4556,3713,81.50%,84,1.84%,0,0.00%
+46,300.jpeg,30,Bearing,26654,28,0.11%,24416,91.60%,0,0.00%
+46,300.jpeg,37,Out of Plane Stiffener,5799,4460,76.91%,904,15.59%,0,0.00%
+47,308.jpeg,23,Out of Plane Stiffener,6953,4367,62.81%,0,0.00%,0,0.00%
+47,308.jpeg,34,Bearing,41376,31857,76.99%,0,0.00%,0,0.00%
+47,308.jpeg,85,Out of Plane Stiffener,2878,0,0.00%,0,0.00%,0,0.00%
+48,309.jpeg,34,Bearing,88004,54181,61.57%,0,0.00%,0,0.00%
+49,314.jpeg,16,Gusset Plate Connection,5861,3887,66.32%,0,0.00%,0,0.00%
+49,314.jpeg,22,Bearing,1684,0,0.00%,554,32.90%,0,0.00%
+49,314.jpeg,39,Bearing,8844,2,0.02%,8681,98.16%,0,0.00%
+49,314.jpeg,40,Out of Plane Stiffener,2333,1641,70.34%,0,0.00%,0,0.00%
+50,316.jpeg,25,Out of Plane Stiffener,5647,5647,100.00%,0,0.00%,0,0.00%
+50,316.jpeg,33,Bearing,16688,4099,24.56%,11428,68.48%,0,0.00%
+50,316.jpeg,89,Out of Plane Stiffener,2523,2515,99.68%,0,0.00%,0,0.00%
+50,316.jpeg,98,Out of Plane Stiffener,638,196,30.72%,296,46.39%,0,0.00%
+51,322.jpeg,21,Out of Plane Stiffener,6080,1618,26.61%,4081,67.12%,0,0.00%
+51,322.jpeg,56,Bearing,3467,778,22.44%,2165,62.45%,0,0.00%
+52,330.jpeg,39,Bearing,23261,321,1.38%,22639,97.33%,0,0.00%
+52,330.jpeg,43,Bearing,16523,6157,37.26%,7299,44.17%,0,0.00%
+53,336.jpeg,12,Out of Plane Stiffener,3391,1355,39.96%,613,18.08%,0,0.00%
+53,336.jpeg,21,Bearing,928,0,0.00%,678,73.06%,0,0.00%
+53,336.jpeg,38,Bearing,5422,0,0.00%,5268,97.16%,0,0.00%
+53,336.jpeg,60,Out of Plane Stiffener,12838,1383,10.77%,1416,11.03%,0,0.00%
+53,336.jpeg,70,Out of Plane Stiffener,5906,4036,68.34%,1812,30.68%,0,0.00%
+54,340.jpeg,15,Bearing,19341,0,0.00%,3000,15.51%,0,0.00%
+54,340.jpeg,40,Bearing,23039,196,0.85%,19279,83.68%,0,0.00%
+54,340.jpeg,65,Out of Plane Stiffener,10380,1532,14.76%,4812,46.36%,0,0.00%
+55,344.jpeg,41,Bearing,15058,1278,8.49%,1214,8.06%,131,0.87%
+55,344.jpeg,54,Out of Plane Stiffener,11520,4056,35.21%,421,3.65%,2203,19.12%
+56,354.jpeg,40,Bearing,151112,0,0.00%,75386,49.89%,73257,48.48%
+57,360.jpeg,39,Out of Plane Stiffener,10145,6628,65.33%,3109,30.65%,0,0.00%
+58,380.jpeg,26,Out of Plane Stiffener,2544,183,7.19%,0,0.00%,0,0.00%
+58,380.jpeg,37,Bearing,31299,6740,21.53%,20807,66.48%,0,0.00%
+59,391.jpeg,37,Bearing,87907,77695,88.38%,0,0.00%,0,0.00%
+60,4.jpeg,16,Bearing,1217,13,1.07%,0,0.00%,0,0.00%
+60,4.jpeg,24,Out of Plane Stiffener,5964,253,4.24%,291,4.88%,0,0.00%
+60,4.jpeg,31,Out of Plane Stiffener,12404,481,3.88%,2878,23.20%,0,0.00%
+60,4.jpeg,60,Bearing,6339,13,0.21%,0,0.00%,0,0.00%
+61,400.jpeg,1,Out of Plane Stiffener,4101,49,1.19%,0,0.00%,0,0.00%
+61,400.jpeg,38,Bearing,37652,14386,38.21%,15543,41.28%,0,0.00%
+61,400.jpeg,54,Bearing,2071,0,0.00%,0,0.00%,0,0.00%
+61,400.jpeg,59,Out of Plane Stiffener,997,1,0.10%,0,0.00%,0,0.00%
+61,400.jpeg,70,Out of Plane Stiffener,6003,426,7.10%,0,0.00%,0,0.00%
+62,413.jpeg,5,Out of Plane Stiffener,15027,0,0.00%,0,0.00%,0,0.00%
+62,413.jpeg,10,Bearing,2613,711,27.21%,0,0.00%,0,0.00%
+62,413.jpeg,20,Bearing,916,408,44.54%,0,0.00%,0,0.00%
+62,413.jpeg,27,Out of Plane Stiffener,9815,118,1.20%,0,0.00%,0,0.00%
+62,413.jpeg,36,Bearing,89292,60600,67.87%,10541,11.81%,0,0.00%
+62,413.jpeg,48,Out of Plane Stiffener,696,0,0.00%,0,0.00%,0,0.00%
+63,414.jpeg,37,Bearing,35448,4406,12.43%,29360,82.83%,0,0.00%
+63,414.jpeg,93,Out of Plane Stiffener,9717,1896,19.51%,26,0.27%,0,0.00%
+64,418.jpeg,16,Bearing,5347,3156,59.02%,0,0.00%,0,0.00%
+64,418.jpeg,35,Out of Plane Stiffener,23577,0,0.00%,0,0.00%,0,0.00%
+64,418.jpeg,46,Bearing,40737,27020,66.33%,1083,2.66%,0,0.00%
+64,418.jpeg,64,Out of Plane Stiffener,15164,0,0.00%,0,0.00%,0,0.00%
+64,418.jpeg,82,Out of Plane Stiffener,701,0,0.00%,0,0.00%,0,0.00%
+65,419.jpeg,4,Out of Plane Stiffener,180,0,0.00%,0,0.00%,0,0.00%
+65,419.jpeg,7,Bearing,1821,0,0.00%,0,0.00%,0,0.00%
+65,419.jpeg,15,Out of Plane Stiffener,13605,1294,9.51%,0,0.00%,0,0.00%
+65,419.jpeg,39,Out of Plane Stiffener,3251,25,0.77%,0,0.00%,0,0.00%
+65,419.jpeg,45,Bearing,7498,245,3.27%,0,0.00%,0,0.00%
+65,419.jpeg,59,Out of Plane Stiffener,183,0,0.00%,0,0.00%,0,0.00%
+66,42.jpeg,36,Bearing,29762,0,0.00%,0,0.00%,0,0.00%
+66,42.jpeg,49,Bearing,4815,920,19.11%,0,0.00%,0,0.00%
+67,422.jpeg,38,Bearing,36932,3685,9.98%,0,0.00%,0,0.00%
+68,427.jpeg,37,Bearing,59156,8912,15.07%,0,0.00%,0,0.00%
+69,429.jpeg,35,Bearing,120700,69324,57.43%,4895,4.06%,0,0.00%
+70,48.jpeg,10,Out of Plane Stiffener,6256,0,0.00%,0,0.00%,0,0.00%
+70,48.jpeg,39,Bearing,17215,4206,24.43%,0,0.00%,0,0.00%
+70,48.jpeg,52,Bearing,8529,2745,32.18%,0,0.00%,0,0.00%
+70,48.jpeg,92,Out of Plane Stiffener,7349,0,0.00%,0,0.00%,0,0.00%
+71,59.jpeg,21,Out of Plane Stiffener,11064,0,0.00%,0,0.00%,0,0.00%
+71,59.jpeg,22,Gusset Plate Connection,19202,0,0.00%,0,0.00%,0,0.00%
+71,59.jpeg,28,Gusset Plate Connection,1238,0,0.00%,0,0.00%,0,0.00%
+71,59.jpeg,34,Bearing,51290,9083,17.71%,0,0.00%,0,0.00%
+71,59.jpeg,37,Bearing,17705,4977,28.11%,0,0.00%,0,0.00%
+72,63.jpeg,27,Out of Plane Stiffener,16969,21,0.12%,0,0.00%,0,0.00%
+72,63.jpeg,69,Out of Plane Stiffener,12734,3435,26.98%,0,0.00%,0,0.00%
+73,65.jpeg,23,Gusset Plate Connection,3727,3562,95.57%,0,0.00%,0,0.00%
+73,65.jpeg,39,Out of Plane Stiffener,5996,5398,90.03%,0,0.00%,0,0.00%
+73,65.jpeg,40,Gusset Plate Connection,20454,1678,8.20%,0,0.00%,0,0.00%
+74,70.jpeg,0,Out of Plane Stiffener,1652,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,7,Out of Plane Stiffener,2919,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,10,Out of Plane Stiffener,657,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,15,Gusset Plate Connection,463,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,17,Gusset Plate Connection,10198,38,0.37%,0,0.00%,0,0.00%
+74,70.jpeg,21,Gusset Plate Connection,263,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,23,Gusset Plate Connection,1835,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,25,Out of Plane Stiffener,1146,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,29,Out of Plane Stiffener,1389,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,30,Gusset Plate Connection,2658,66,2.48%,0,0.00%,0,0.00%
+74,70.jpeg,32,Out of Plane Stiffener,1498,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,35,Out of Plane Stiffener,1311,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,36,Gusset Plate Connection,8150,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,40,Out of Plane Stiffener,2538,900,35.46%,0,0.00%,0,0.00%
+74,70.jpeg,45,Gusset Plate Connection,379,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,50,Out of Plane Stiffener,6775,825,12.18%,372,5.49%,0,0.00%
+74,70.jpeg,51,Out of Plane Stiffener,1331,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,53,Gusset Plate Connection,1646,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,68,Out of Plane Stiffener,868,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,75,Gusset Plate Connection,2082,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,76,Out of Plane Stiffener,1672,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,78,Gusset Plate Connection,1879,1879,100.00%,0,0.00%,0,0.00%
+74,70.jpeg,84,Gusset Plate Connection,1915,1,0.05%,0,0.00%,0,0.00%
+74,70.jpeg,90,Out of Plane Stiffener,583,0,0.00%,0,0.00%,0,0.00%
+74,70.jpeg,98,Gusset Plate Connection,1269,0,0.00%,0,0.00%,0,0.00%
+75,78.jpeg,40,Bearing,76010,772,1.02%,24431,32.14%,0,0.00%
+76,8.jpeg,21,Bearing,1130,0,0.00%,0,0.00%,0,0.00%
+76,8.jpeg,30,Out of Plane Stiffener,10236,318,3.11%,146,1.43%,0,0.00%
+76,8.jpeg,39,Bearing,2210,0,0.00%,0,0.00%,0,0.00%
+77,90.jpeg,28,Out of Plane Stiffener,16085,6274,39.01%,0,0.00%,0,0.00%
+77,90.jpeg,36,Bearing,12173,349,2.87%,3848,31.61%,0,0.00%
+77,90.jpeg,69,Out of Plane Stiffener,8790,2869,32.64%,2095,23.83%,0,0.00%
+77,90.jpeg,94,Gusset Plate Connection,11318,9760,86.23%,663,5.86%,0,0.00%
+78,94.jpeg,5,Out of Plane Stiffener,186,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,6,Bearing,988,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,9,Out of Plane Stiffener,450,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,10,Out of Plane Stiffener,3876,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,17,Out of Plane Stiffener,1093,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,18,Out of Plane Stiffener,469,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,28,Out of Plane Stiffener,5487,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,29,Out of Plane Stiffener,11583,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,34,Out of Plane Stiffener,249,3,1.20%,0,0.00%,0,0.00%
+78,94.jpeg,40,Out of Plane Stiffener,8666,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,41,Bearing,3585,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,45,Out of Plane Stiffener,220,24,10.91%,0,0.00%,0,0.00%
+78,94.jpeg,48,Bearing,3279,6,0.18%,0,0.00%,0,0.00%
+78,94.jpeg,52,Out of Plane Stiffener,8346,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,60,Out of Plane Stiffener,455,0,0.00%,0,0.00%,0,0.00%
+78,94.jpeg,77,Out of Plane Stiffener,2646,0,0.00%,0,0.00%,0,0.00%
+79,97.jpeg,35,Bearing,108421,43064,39.72%,0,0.00%,0,0.00%
+79,97.jpeg,71,Bearing,747,0,0.00%,0,0.00%,0,0.00%
+80,99.jpeg,1,Gusset Plate Connection,2666,873,32.75%,0,0.00%,0,0.00%
+80,99.jpeg,26,Out of Plane Stiffener,3579,230,6.43%,0,0.00%,0,0.00%
+80,99.jpeg,37,Bearing,7169,5167,72.07%,0,0.00%,0,0.00%
+80,99.jpeg,51,Gusset Plate Connection,2586,87,3.36%,0,0.00%,0,0.00%
+80,99.jpeg,59,Gusset Plate Connection,1658,0,0.00%,0,0.00%,0,0.00%
+80,99.jpeg,93,Gusset Plate Connection,709,176,24.82%,0,0.00%,0,0.00%

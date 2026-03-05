@@ -1,0 +1,399 @@
+{
+  "standard": {
+    "sem_seg": {
+      "mIoU": 66.30048322261942,
+      "fwIoU": 87.83863555564281,
+      "IoU-Background": 93.90685401306843,
+      "BoundaryIoU-Background": 91.61321340546348,
+      "min(IoU, B-Iou)-Background": 91.61321340546348,
+      "IoU-Fair": 74.48634108713907,
+      "BoundaryIoU-Fair": 47.53643780995888,
+      "min(IoU, B-Iou)-Fair": 47.53643780995888,
+      "IoU-Poor": 63.98815183207782,
+      "BoundaryIoU-Poor": 40.331269026867595,
+      "min(IoU, B-Iou)-Poor": 40.331269026867595,
+      "IoU-Severe": 32.82058595819241,
+      "BoundaryIoU-Severe": 21.398346644248285,
+      "min(IoU, B-Iou)-Severe": 21.398346644248285,
+      "mACC": 74.71512680859232,
+      "pACC": 93.23078155517578,
+      "ACC-Background": 97.64883420555597,
+      "ACC-Fair": 81.33154411959592,
+      "ACC-Poor": 86.22294784699683,
+      "ACC-Severe": 33.657181062220545
+    }
+  },
+  "confusion_matrix": {
+    "matrix": [
+      [
+        3780874,
+        74430,
+        16017,
+        588
+      ],
+      [
+        123316,
+        828522,
+        66445,
+        414
+      ],
+      [
+        28852,
+        12869,
+        262473,
+        218
+      ],
+      [
+        2119,
+        6318,
+        23316,
+        16109
+      ]
+    ],
+    "matrix_normalized": [
+      [
+        0.9764883420555597,
+        0.019223075748939347,
+        0.00413671912227276,
+        0.00015186307322821895
+      ],
+      [
+        0.12105267807797608,
+        0.8133154411959591,
+        0.065225479215115,
+        0.0004064015109497721
+      ],
+      [
+        0.0947794436487392,
+        0.042274943169126056,
+        0.8622294784699683,
+        0.000716134712166406
+      ],
+      [
+        0.044273118549162174,
+        0.13200451297480256,
+        0.48715055785382977,
+        0.3365718106222055
+      ]
+    ],
+    "class_names": [
+      "Background",
+      "Fair",
+      "Poor",
+      "Severe"
+    ]
+  },
+  "f1_scores": {
+    "per_class": {
+      "Background": 0.9685769437189624,
+      "Fair": 0.8537784748427998,
+      "Poor": 0.7803996949438277,
+      "Severe": 0.49420932337285817
+    },
+    "macro_avg": 0.774241109219612
+  },
+  "precision": {
+    "per_class": {
+      "Background": 0.9607927096248413,
+      "Fair": 0.8984784289570228,
+      "Poor": 0.7127557019532873,
+      "Severe": 0.9295977840613999
+    },
+    "macro_avg": 0.8754061561491379
+  },
+  "recall": {
+    "per_class": {
+      "Background": 0.9764883420555597,
+      "Fair": 0.8133154411959591,
+      "Poor": 0.8622294784699683,
+      "Severe": 0.3365718106222055
+    },
+    "macro_avg": 0.7471512680859231
+  },
+  "per_image_iou": {
+    "images": [
+      {
+        "image_id": "1008",
+        "file_name": "datasets/semantic/test/images/1008.jpeg",
+        "iou": {
+          "Background": 0.9559610495751348,
+          "Fair": 0.6187520068500482,
+          "Poor": 0.1970310391363023,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "1233",
+        "file_name": "datasets/semantic/test/images/1233.jpeg",
+        "iou": {
+          "Background": 0.9570765565960243,
+          "Fair": 0.6410441353254336,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "1522",
+        "file_name": "datasets/semantic/test/images/1522.jpeg",
+        "iou": {
+          "Background": 0.9801439616561184,
+          "Fair": 0.8655929636533085,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "1528",
+        "file_name": "datasets/semantic/test/images/1528.jpeg",
+        "iou": {
+          "Background": 0.9868036478630294,
+          "Fair": 0.7796813545763616,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "16",
+        "file_name": "datasets/semantic/test/images/16.jpeg",
+        "iou": {
+          "Background": 0.9518375014676529,
+          "Fair": 0.6085459940652819,
+          "Poor": 0.924929270241669,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "1995",
+        "file_name": "datasets/semantic/test/images/1995.jpeg",
+        "iou": {
+          "Background": 0.6874600627635857,
+          "Fair": 0.5489393993288989,
+          "Poor": 0.305602193588126,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "2065",
+        "file_name": "datasets/semantic/test/images/2065.jpeg",
+        "iou": {
+          "Background": 0.8777203380323823,
+          "Fair": 0.45139927365947446,
+          "Poor": 0.32273146595102314,
+          "Severe": 0.541024349286314
+        }
+      },
+      {
+        "image_id": "23",
+        "file_name": "datasets/semantic/test/images/23.jpeg",
+        "iou": {
+          "Background": 0.9126181198536684,
+          "Fair": 0.7748763291067265,
+          "Poor": 0.8907990548295317,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "2302",
+        "file_name": "datasets/semantic/test/images/2302.jpeg",
+        "iou": {
+          "Background": 0.9758805348210519,
+          "Fair": 0.8418958950486669,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "2369",
+        "file_name": "datasets/semantic/test/images/2369.jpeg",
+        "iou": {
+          "Background": 0.7460906782173751,
+          "Fair": 0.7234344026579557,
+          "Poor": 0.7761643835616439,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "2412",
+        "file_name": "datasets/semantic/test/images/2412.jpeg",
+        "iou": {
+          "Background": 0.9322348218580043,
+          "Fair": 0.6330082114126131,
+          "Poor": 0.7705723100169993,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "2442",
+        "file_name": "datasets/semantic/test/images/2442.jpeg",
+        "iou": {
+          "Background": 0.971525259198339,
+          "Fair": 0.5171443643397222,
+          "Poor": 0.8843089139485512,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "2642",
+        "file_name": "datasets/semantic/test/images/2642.jpeg",
+        "iou": {
+          "Background": 0.9705034991144995,
+          "Fair": 0.8952291861552854,
+          "Poor": 0.7399926551597503,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "2755",
+        "file_name": "datasets/semantic/test/images/2755.jpeg",
+        "iou": {
+          "Background": 0.9463315145415055,
+          "Fair": 0.8232523895962122,
+          "Poor": 0.05081555834378921,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "431",
+        "file_name": "datasets/semantic/test/images/431.jpeg",
+        "iou": {
+          "Background": 0.9872673414370349,
+          "Fair": 0.43301997649823737,
+          "Poor": 0.774074804443568,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "545",
+        "file_name": "datasets/semantic/test/images/545.jpeg",
+        "iou": {
+          "Background": 0.9210355829416206,
+          "Fair": 0.7046941293801451,
+          "Poor": 0.7310578984989278,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "570",
+        "file_name": "datasets/semantic/test/images/570.jpeg",
+        "iou": {
+          "Background": 0.9672450311289874,
+          "Fair": 0.7649458338905978,
+          "Poor": 0.8646031746031746,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "713",
+        "file_name": "datasets/semantic/test/images/713.jpeg",
+        "iou": {
+          "Background": 0.8270161621133809,
+          "Fair": 0.9070633608815427,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "79",
+        "file_name": "datasets/semantic/test/images/79.jpeg",
+        "iou": {
+          "Background": 0.9146598844820124,
+          "Fair": 0.7607677962016163,
+          "Poor": 0.6083506070476754,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "979",
+        "file_name": "datasets/semantic/test/images/979.jpeg",
+        "iou": {
+          "Background": 0.9864968980987312,
+          "Fair": 0.7936469001042498,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      }
+    ],
+    "class_mean": {
+      "Background": 0.922795422288007,
+      "Fair": 0.7043466951366188,
+      "Poor": 0.5894022219580488,
+      "Severe": 0.18034144976210467
+    },
+    "mean": 0.7483060643551805
+  },
+  "boundary_analysis": {
+    "1": {
+      "per_class": {
+        "Background": 0.0,
+        "Fair": 0.0,
+        "Poor": 0.0,
+        "Severe": 0.0
+      },
+      "mean": NaN
+    },
+    "2": {
+      "per_class": {
+        "Background": 0.08973657759325852,
+        "Fair": 0.08078939632099898,
+        "Poor": 0.07708878864654621,
+        "Severe": 0.053300904410832316
+      },
+      "mean": 0.075228916742909
+    },
+    "3": {
+      "per_class": {
+        "Background": 0.16324756451823502,
+        "Fair": 0.14513910869757543,
+        "Poor": 0.13703501011381494,
+        "Severe": 0.0998340409489827
+      },
+      "mean": 0.13631393106965203
+    },
+    "5": {
+      "per_class": {
+        "Background": 0.2952584093315479,
+        "Fair": 0.26120925778235804,
+        "Poor": 0.2466754728188629,
+        "Severe": 0.18284286914709155
+      },
+      "mean": 0.2464965022699651
+    },
+    "10": {
+      "per_class": {
+        "Background": 0.4967019821861641,
+        "Fair": 0.4546868102908398,
+        "Poor": 0.429405451121561,
+        "Severe": 0.3373523333208656
+      },
+      "mean": 0.42953664422985766
+    }
+  },
+  "size_sensitivity": {
+    "small": {
+      "count": 20,
+      "mean_iou": 0.7483060643551805,
+      "median_iou": 0.7882943580512176,
+      "std_iou": 0.14829153649728247
+    },
+    "medium": {
+      "count": 0,
+      "mean_iou": 0.0,
+      "median_iou": 0.0,
+      "std_iou": 0.0
+    },
+    "large": {
+      "count": 0,
+      "mean_iou": 0.0,
+      "median_iou": 0.0,
+      "std_iou": 0.0
+    }
+  },
+  "model_analysis": {
+    "total_parameters": 106884669,
+    "trainable_parameters": 106884669,
+    "model_size_mb": 407.7326545715332,
+    "avg_inference_time_seconds": 0.03421679735183716,
+    "std_inference_time_seconds": 0.000590219955817336,
+    "fps": 29.225412002105696
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "total_gt_instances": 360,
+  "total_pred_instances": 338,
+  "matched_instances": 275,
+  "unmatched_gt": 85,
+  "unmatched_pred": 63,
+  "false_negatives": [
+    {
+      "image": "105.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 6
+    },
+    {
+      "image": "105.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 8
+    },
+    {
+      "image": "105.jpeg",
+      "class": "Bearing",
+      "annotation_id": 9
+    },
+    {
+      "image": "134.jpeg",
+      "class": "Bearing",
+      "annotation_id": 28
+    },
+    {
+      "image": "149.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 41
+    },
+    {
+      "image": "149.jpeg",
+      "class": "Bearing",
+      "annotation_id": 44
+    },
+    {
+      "image": "149.jpeg",
+      "class": "Bearing",
+      "annotation_id": 45
+    },
+    {
+      "image": "156.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 55
+    },
+    {
+      "image": "177.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 69
+    },
+    {
+      "image": "177.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 70
+    },
+    {
+      "image": "183.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 73
+    },
+    {
+      "image": "183.jpeg",
+      "class": "Bearing",
+      "annotation_id": 77
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 89
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 91
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 95
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 97
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 98
+    },
+    {
+      "image": "195.jpeg",
+      "class": "Bearing",
+      "annotation_id": 99
+    },
+    {
+      "image": "195.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 104
+    },
+    {
+      "image": "198.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 109
+    },
+    {
+      "image": "198.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 113
+    },
+    {
+      "image": "198.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 114
+    },
+    {
+      "image": "198.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 116
+    },
+    {
+      "image": "198.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 118
+    },
+    {
+      "image": "202.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 121
+    },
+    {
+      "image": "217.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 132
+    },
+    {
+      "image": "220.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 135
+    },
+    {
+      "image": "220.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 136
+    },
+    {
+      "image": "220.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 138
+    },
+    {
+      "image": "220.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 139
+    },
+    {
+      "image": "220.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 140
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 141
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 142
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 148
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 149
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Bearing",
+      "annotation_id": 151
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Bearing",
+      "annotation_id": 153
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 156
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 157
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 161
+    },
+    {
+      "image": "244.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 168
+    },
+    {
+      "image": "244.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 171
+    },
+    {
+      "image": "244.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 172
+    },
+    {
+      "image": "245.jpeg",
+      "class": "Bearing",
+      "annotation_id": 182
+    },
+    {
+      "image": "269.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 191
+    },
+    {
+      "image": "269.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 192
+    },
+    {
+      "image": "269.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 193
+    },
+    {
+      "image": "279.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 194
+    },
+    {
+      "image": "281.jpeg",
+      "class": "Bearing",
+      "annotation_id": 201
+    },
+    {
+      "image": "286.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 203
+    },
+    {
+      "image": "288.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 208
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 210
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 211
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 214
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 215
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 216
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 217
+    },
+    {
+      "image": "296.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 218
+    },
+    {
+      "image": "297.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 219
+    },
+    {
+      "image": "314.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 233
+    },
+    {
+      "image": "322.jpeg",
+      "class": "Bearing",
+      "annotation_id": 239
+    },
+    {
+      "image": "4.jpeg",
+      "class": "Bearing",
+      "annotation_id": 255
+    },
+    {
+      "image": "65.jpeg",
+      "class": "Bearing",
+      "annotation_id": 295
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 299
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 304
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 310
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 311
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 313
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 314
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 315
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 316
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 319
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 322
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 324
+    },
+    {
+      "image": "8.jpeg",
+      "class": "Bearing",
+      "annotation_id": 329
+    },
+    {
+      "image": "8.jpeg",
+      "class": "Bearing",
+      "annotation_id": 331
+    },
+    {
+      "image": "8.jpeg",
+      "class": "Bearing",
+      "annotation_id": 332
+    },
+    {
+      "image": "8.jpeg",
+      "class": "Bearing",
+      "annotation_id": 333
+    },
+    {
+      "image": "90.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 339
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 345
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Out of Plane Stiffener",
+      "annotation_id": 351
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Bearing",
+      "annotation_id": 353
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Bearing",
+      "annotation_id": 354
+    },
+    {
+      "image": "99.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 359
+    },
+    {
+      "image": "99.jpeg",
+      "class": "Gusset Plate Connection",
+      "annotation_id": 360
+    }
+  ],
+  "false_positives": [
+    {
+      "image": "105.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8449167013168335
+    },
+    {
+      "image": "105.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8645967841148376
+    },
+    {
+      "image": "134.jpeg",
+      "class": "Bearing",
+      "score": 0.8624414801597595
+    },
+    {
+      "image": "140.jpeg",
+      "class": "Bearing",
+      "score": 0.5646703243255615
+    },
+    {
+      "image": "154.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9331249594688416
+    },
+    {
+      "image": "154.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.775459349155426
+    },
+    {
+      "image": "177.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.949450671672821
+    },
+    {
+      "image": "177.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.6529277563095093
+    },
+    {
+      "image": "177.jpeg",
+      "class": "Bearing",
+      "score": 0.9513744115829468
+    },
+    {
+      "image": "177.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.5252195000648499
+    },
+    {
+      "image": "183.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9385462999343872
+    },
+    {
+      "image": "191.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9645900726318359
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9480717182159424
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.6310028433799744
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8633596301078796
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9611426591873169
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.5423915982246399
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8989365696907043
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.7998727560043335
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.679811954498291
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9421473741531372
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.7059832811355591
+    },
+    {
+      "image": "193.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9438902139663696
+    },
+    {
+      "image": "220.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.571290135383606
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.8947492837905884
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Bearing",
+      "score": 0.958103358745575
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9775329828262329
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9836859703063965
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.864203929901123
+    },
+    {
+      "image": "222.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9507614970207214
+    },
+    {
+      "image": "244.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8411726951599121
+    },
+    {
+      "image": "244.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9626099467277527
+    },
+    {
+      "image": "244.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9132405519485474
+    },
+    {
+      "image": "279.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.966823399066925
+    },
+    {
+      "image": "281.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9696362018585205
+    },
+    {
+      "image": "281.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.6843755841255188
+    },
+    {
+      "image": "281.jpeg",
+      "class": "Bearing",
+      "score": 0.9378510117530823
+    },
+    {
+      "image": "314.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9319698810577393
+    },
+    {
+      "image": "316.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9755581617355347
+    },
+    {
+      "image": "336.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9747310280799866
+    },
+    {
+      "image": "340.jpeg",
+      "class": "Bearing",
+      "score": 0.7933083176612854
+    },
+    {
+      "image": "4.jpeg",
+      "class": "Bearing",
+      "score": 0.8849202990531921
+    },
+    {
+      "image": "4.jpeg",
+      "class": "Bearing",
+      "score": 0.6852586269378662
+    },
+    {
+      "image": "400.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8405889272689819
+    },
+    {
+      "image": "59.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9228965640068054
+    },
+    {
+      "image": "63.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.5154258012771606
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.7679667472839355
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9317352175712585
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.8467369079589844
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.9620550870895386
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9788288474082947
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9764183163642883
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.8523325324058533
+    },
+    {
+      "image": "70.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9346116781234741
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Bearing",
+      "score": 0.9647231698036194
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.527827799320221
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.949472188949585
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.8084259033203125
+    },
+    {
+      "image": "94.jpeg",
+      "class": "Out of Plane Stiffener",
+      "score": 0.6237560510635376
+    },
+    {
+      "image": "97.jpeg",
+      "class": "Bearing",
+      "score": 0.5802398324012756
+    },
+    {
+      "image": "99.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.8744001984596252
+    },
+    {
+      "image": "99.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9408044815063477
+    },
+    {
+      "image": "99.jpeg",
+      "class": "Gusset Plate Connection",
+      "score": 0.9721454381942749
+    }
+  ]
+}

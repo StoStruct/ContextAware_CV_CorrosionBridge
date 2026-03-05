@@ -1,0 +1,1009 @@
+{
+  "standard": {
+    "sem_seg": {
+      "mIoU": 55.87213218386954,
+      "fwIoU": 83.28548171753415,
+      "IoU-Background": 92.1405022032103,
+      "BoundaryIoU-Background": 89.84154570466843,
+      "min(IoU, B-Iou)-Background": 89.84154570466843,
+      "IoU-Fair": 58.152976508032474,
+      "BoundaryIoU-Fair": 37.06264309111439,
+      "min(IoU, B-Iou)-Fair": 37.06264309111439,
+      "IoU-Poor": 47.99433416921058,
+      "BoundaryIoU-Poor": 24.281222288016178,
+      "min(IoU, B-Iou)-Poor": 24.281222288016178,
+      "IoU-Severe": 25.200715855024807,
+      "BoundaryIoU-Severe": 9.398647141901435,
+      "min(IoU, B-Iou)-Severe": 9.398647141901435,
+      "mACC": 66.34730794612042,
+      "pACC": 89.91322929476515,
+      "ACC-Background": 95.836062632283,
+      "ACC-Fair": 74.47501441368637,
+      "ACC-Poor": 69.61872912709629,
+      "ACC-Severe": 25.459425611416037
+    }
+  },
+  "confusion_matrix": {
+    "matrix": [
+      [
+        15745614,
+        536672,
+        144367,
+        3085
+      ],
+      [
+        553959,
+        2331593,
+        244913,
+        240
+      ],
+      [
+        80065,
+        324771,
+        928065,
+        167
+      ],
+      [
+        24938,
+        17265,
+        211349,
+        86601
+      ]
+    ],
+    "matrix_normalized": [
+      [
+        0.95836062632283,
+        0.03266467182860737,
+        0.00878693257311833,
+        0.00018776927544431933
+      ],
+      [
+        0.1769438513050575,
+        0.7447501441368637,
+        0.07822934450866498,
+        7.666004941379019e-05
+      ],
+      [
+        0.06006070207971386,
+        0.24362673171961222,
+        0.6961872912709629,
+        0.0001252749297110125
+      ],
+      [
+        0.0733140674931575,
+        0.05075657130761745,
+        0.6213351050850646,
+        0.25459425611416037
+      ]
+    ],
+    "class_names": [
+      "Background",
+      "Fair",
+      "Poor",
+      "Severe"
+    ]
+  },
+  "f1_scores": {
+    "per_class": {
+      "Background": 0.9590950491610698,
+      "Fair": 0.7354016066220407,
+      "Poor": 0.6485969133701545,
+      "Severe": 0.4025650441840249
+    },
+    "macro_avg": 0.6864146533343225
+  },
+  "precision": {
+    "per_class": {
+      "Background": 0.9598305984866662,
+      "Fair": 0.7262848561552327,
+      "Poor": 0.6070966458951236,
+      "Severe": 0.9612400519463221
+    },
+    "macro_avg": 0.8136130381208361
+  },
+  "recall": {
+    "per_class": {
+      "Background": 0.95836062632283,
+      "Fair": 0.7447501441368637,
+      "Poor": 0.6961872912709629,
+      "Severe": 0.25459425611416037
+    },
+    "macro_avg": 0.6634730794612043
+  },
+  "per_image_iou": {
+    "images": [
+      {
+        "image_id": "101",
+        "file_name": "datasets/semantic/val/images/101.jpeg",
+        "iou": {
+          "Background": 0.9114372313796911,
+          "Fair": 0.4634168664994783,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "105",
+        "file_name": "datasets/semantic/val/images/105.jpeg",
+        "iou": {
+          "Background": 0.991412704862522,
+          "Fair": 0.6275595837529372,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "106",
+        "file_name": "datasets/semantic/val/images/106.jpeg",
+        "iou": {
+          "Background": 0.9846337077602111,
+          "Fair": 0.569277765655684,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "107",
+        "file_name": "datasets/semantic/val/images/107.jpeg",
+        "iou": {
+          "Background": 0.997099680617293,
+          "Fair": 0.8102577059120768,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "124",
+        "file_name": "datasets/semantic/val/images/124.jpeg",
+        "iou": {
+          "Background": 0.9519203256384933,
+          "Fair": 0.8135647816750179,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "125",
+        "file_name": "datasets/semantic/val/images/125.jpeg",
+        "iou": {
+          "Background": 0.879785661703864,
+          "Fair": 0.6873431370726357,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "126",
+        "file_name": "datasets/semantic/val/images/126.jpeg",
+        "iou": {
+          "Background": 0.809865923990733,
+          "Fair": 0.6420959992388564,
+          "Poor": 0.09471860661110591,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "128",
+        "file_name": "datasets/semantic/val/images/128.jpeg",
+        "iou": {
+          "Background": 0.9826852182185754,
+          "Fair": 0.5079790989973167,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "134",
+        "file_name": "datasets/semantic/val/images/134.jpeg",
+        "iou": {
+          "Background": 0.9908279381936955,
+          "Fair": 0.47760989010989013,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "140",
+        "file_name": "datasets/semantic/val/images/140.jpeg",
+        "iou": {
+          "Background": 0.9246340810014368,
+          "Fair": 0.537882200320715,
+          "Poor": 0.44511169036856174,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "147",
+        "file_name": "datasets/semantic/val/images/147.jpeg",
+        "iou": {
+          "Background": 0.9930419921875,
+          "Fair": 0.0,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "149",
+        "file_name": "datasets/semantic/val/images/149.jpeg",
+        "iou": {
+          "Background": 0.9517348718851527,
+          "Fair": 0.5030690010298661,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "152",
+        "file_name": "datasets/semantic/val/images/152.jpeg",
+        "iou": {
+          "Background": 0.9130676014124894,
+          "Fair": 0.4017158302973322,
+          "Poor": 0.0,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "154",
+        "file_name": "datasets/semantic/val/images/154.jpeg",
+        "iou": {
+          "Background": 0.8584625687459004,
+          "Fair": 0.2961090349527369,
+          "Poor": 0.021733384837457053,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "156",
+        "file_name": "datasets/semantic/val/images/156.jpeg",
+        "iou": {
+          "Background": 0.9470961238795147,
+          "Fair": 0.28081013450109477,
+          "Poor": 0.6817281486886979,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "164",
+        "file_name": "datasets/semantic/val/images/164.jpeg",
+        "iou": {
+          "Background": 0.9934043884277344,
+          "Fair": 0.0,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "165",
+        "file_name": "datasets/semantic/val/images/165.jpeg",
+        "iou": {
+          "Background": 0.9970711521926053,
+          "Fair": 0.681419624217119,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "170",
+        "file_name": "datasets/semantic/val/images/170.jpeg",
+        "iou": {
+          "Background": 0.9841466766126182,
+          "Fair": 0.6480125523012552,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "177",
+        "file_name": "datasets/semantic/val/images/177.jpeg",
+        "iou": {
+          "Background": 0.860837756704638,
+          "Fair": 0.23311203137667347,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "183",
+        "file_name": "datasets/semantic/val/images/183.jpeg",
+        "iou": {
+          "Background": 0.8646101922310966,
+          "Fair": 0.7341251054895745,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "188",
+        "file_name": "datasets/semantic/val/images/188.jpeg",
+        "iou": {
+          "Background": 0.7184116787299031,
+          "Fair": 0.6489817408883197,
+          "Poor": 0.13468707981909303,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "191",
+        "file_name": "datasets/semantic/val/images/191.jpeg",
+        "iou": {
+          "Background": 0.9733143790605165,
+          "Fair": 0.770591388243702,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "193",
+        "file_name": "datasets/semantic/val/images/193.jpeg",
+        "iou": {
+          "Background": 0.8988214657676917,
+          "Fair": 0.8119830501568676,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "195",
+        "file_name": "datasets/semantic/val/images/195.jpeg",
+        "iou": {
+          "Background": 0.9263917487524811,
+          "Fair": 0.7541227647929257,
+          "Poor": 0.0,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "198",
+        "file_name": "datasets/semantic/val/images/198.jpeg",
+        "iou": {
+          "Background": 0.8706941859191941,
+          "Fair": 0.7373655940089167,
+          "Poor": 0.0,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "20",
+        "file_name": "datasets/semantic/val/images/20.jpeg",
+        "iou": {
+          "Background": 0.9747893673881556,
+          "Fair": 0.7339848458756673,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "202",
+        "file_name": "datasets/semantic/val/images/202.jpeg",
+        "iou": {
+          "Background": 0.9380031590746968,
+          "Fair": 0.7570986866365983,
+          "Poor": 0.32669539225961725,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "204",
+        "file_name": "datasets/semantic/val/images/204.jpeg",
+        "iou": {
+          "Background": 0.9416438368059324,
+          "Fair": 0.6546449307726664,
+          "Poor": 0.6631139781930372,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "209",
+        "file_name": "datasets/semantic/val/images/209.jpeg",
+        "iou": {
+          "Background": 0.9866869680643399,
+          "Fair": 0.589175089664167,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "212",
+        "file_name": "datasets/semantic/val/images/212.jpeg",
+        "iou": {
+          "Background": 0.9669094631406189,
+          "Fair": 0.08502633559066967,
+          "Poor": 0.7200966109492409,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "217",
+        "file_name": "datasets/semantic/val/images/217.jpeg",
+        "iou": {
+          "Background": 0.7665879707700956,
+          "Fair": 0.485933465214962,
+          "Poor": 0.8460893816373353,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "220",
+        "file_name": "datasets/semantic/val/images/220.jpeg",
+        "iou": {
+          "Background": 0.9203093875647795,
+          "Fair": 0.4754738315744131,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "222",
+        "file_name": "datasets/semantic/val/images/222.jpeg",
+        "iou": {
+          "Background": 0.9558870469210226,
+          "Fair": 0.4534603327706776,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "237",
+        "file_name": "datasets/semantic/val/images/237.jpeg",
+        "iou": {
+          "Background": 0.9355927223311312,
+          "Fair": 0.7573266930189632,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "244",
+        "file_name": "datasets/semantic/val/images/244.jpeg",
+        "iou": {
+          "Background": 0.8348087522966428,
+          "Fair": 0.6903569192235441,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "245",
+        "file_name": "datasets/semantic/val/images/245.jpeg",
+        "iou": {
+          "Background": 0.9038145728463818,
+          "Fair": 0.11717459151826694,
+          "Poor": 0.777403403306346,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "246",
+        "file_name": "datasets/semantic/val/images/246.jpeg",
+        "iou": {
+          "Background": 0.9188511314537543,
+          "Fair": 0.486698403808457,
+          "Poor": 0.8004485044355769,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "249",
+        "file_name": "datasets/semantic/val/images/249.jpeg",
+        "iou": {
+          "Background": 0.8724400323284078,
+          "Fair": 0.44809553833030447,
+          "Poor": 0.7627026619410301,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "269",
+        "file_name": "datasets/semantic/val/images/269.jpeg",
+        "iou": {
+          "Background": 0.9268704483027996,
+          "Fair": 0.3896873094678164,
+          "Poor": 0.8380173433188806,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "279",
+        "file_name": "datasets/semantic/val/images/279.jpeg",
+        "iou": {
+          "Background": 0.8142074990173663,
+          "Fair": 0.5997977137840881,
+          "Poor": 0.3040321125744182,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "281",
+        "file_name": "datasets/semantic/val/images/281.jpeg",
+        "iou": {
+          "Background": 0.9050964148778372,
+          "Fair": 0.5355754276827371,
+          "Poor": 0.6919859527285641,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "286",
+        "file_name": "datasets/semantic/val/images/286.jpeg",
+        "iou": {
+          "Background": 0.9138881165418503,
+          "Fair": 0.6822983462706717,
+          "Poor": 0.8495679497250589,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "288",
+        "file_name": "datasets/semantic/val/images/288.jpeg",
+        "iou": {
+          "Background": 0.8804150361553689,
+          "Fair": 0.5289738543716616,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "296",
+        "file_name": "datasets/semantic/val/images/296.jpeg",
+        "iou": {
+          "Background": 0.8955427325185151,
+          "Fair": 0.44216261525565803,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "297",
+        "file_name": "datasets/semantic/val/images/297.jpeg",
+        "iou": {
+          "Background": 0.9272514102059557,
+          "Fair": 0.022631243850205474,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "298",
+        "file_name": "datasets/semantic/val/images/298.jpeg",
+        "iou": {
+          "Background": 0.941935084679843,
+          "Fair": 0.16608540649461365,
+          "Poor": 0.6894500072558409,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "300",
+        "file_name": "datasets/semantic/val/images/300.jpeg",
+        "iou": {
+          "Background": 0.9617344359302392,
+          "Fair": 0.5777395724323516,
+          "Poor": 0.8190208539584198,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "308",
+        "file_name": "datasets/semantic/val/images/308.jpeg",
+        "iou": {
+          "Background": 0.7677179177628889,
+          "Fair": 0.1318266634698579,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "309",
+        "file_name": "datasets/semantic/val/images/309.jpeg",
+        "iou": {
+          "Background": 0.9441399299776158,
+          "Fair": 0.8196209863005236,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "314",
+        "file_name": "datasets/semantic/val/images/314.jpeg",
+        "iou": {
+          "Background": 0.9485253374316511,
+          "Fair": 0.1763987023952362,
+          "Poor": 0.47863645225633256,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "316",
+        "file_name": "datasets/semantic/val/images/316.jpeg",
+        "iou": {
+          "Background": 0.9494879494879495,
+          "Fair": 0.3637529178750796,
+          "Poor": 0.011390878135927074,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "322",
+        "file_name": "datasets/semantic/val/images/322.jpeg",
+        "iou": {
+          "Background": 0.837158834333579,
+          "Fair": 0.6068753577027397,
+          "Poor": 0.6971295772878588,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "330",
+        "file_name": "datasets/semantic/val/images/330.jpeg",
+        "iou": {
+          "Background": 0.8503308984204283,
+          "Fair": 0.2781835081662462,
+          "Poor": 0.5450800286852103,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "336",
+        "file_name": "datasets/semantic/val/images/336.jpeg",
+        "iou": {
+          "Background": 0.9164791692421808,
+          "Fair": 0.663068115434046,
+          "Poor": 0.8229520048940548,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "340",
+        "file_name": "datasets/semantic/val/images/340.jpeg",
+        "iou": {
+          "Background": 0.9361766454178367,
+          "Fair": 0.724001562347427,
+          "Poor": 0.739026125514982,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "344",
+        "file_name": "datasets/semantic/val/images/344.jpeg",
+        "iou": {
+          "Background": 0.7992210611445719,
+          "Fair": 0.442953667953668,
+          "Poor": 0.01540099491528535,
+          "Severe": 0.24617895309456542
+        }
+      },
+      {
+        "image_id": "354",
+        "file_name": "datasets/semantic/val/images/354.jpeg",
+        "iou": {
+          "Background": 0.8402083161114325,
+          "Fair": 0.0,
+          "Poor": 0.0,
+          "Severe": 0.39348493227929776
+        }
+      },
+      {
+        "image_id": "360",
+        "file_name": "datasets/semantic/val/images/360.jpeg",
+        "iou": {
+          "Background": 0.4768729592108568,
+          "Fair": 0.4521060322700325,
+          "Poor": 0.6367569356611781,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "380",
+        "file_name": "datasets/semantic/val/images/380.jpeg",
+        "iou": {
+          "Background": 0.9427904428404679,
+          "Fair": 0.640481546786648,
+          "Poor": 0.6563271389315821,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "391",
+        "file_name": "datasets/semantic/val/images/391.jpeg",
+        "iou": {
+          "Background": 0.8899754275111579,
+          "Fair": 0.8539378203847946,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "4",
+        "file_name": "datasets/semantic/val/images/4.jpeg",
+        "iou": {
+          "Background": 0.8560369638757711,
+          "Fair": 0.546518862981399,
+          "Poor": 0.7085675169332757,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "400",
+        "file_name": "datasets/semantic/val/images/400.jpeg",
+        "iou": {
+          "Background": 0.9209333409315795,
+          "Fair": 0.6295487454601562,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "413",
+        "file_name": "datasets/semantic/val/images/413.jpeg",
+        "iou": {
+          "Background": 0.937927244526391,
+          "Fair": 0.6485533532603964,
+          "Poor": 0.46224346605858624,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "414",
+        "file_name": "datasets/semantic/val/images/414.jpeg",
+        "iou": {
+          "Background": 0.9815490051651805,
+          "Fair": 0.6944312232270348,
+          "Poor": 0.796877050255872,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "418",
+        "file_name": "datasets/semantic/val/images/418.jpeg",
+        "iou": {
+          "Background": 0.9619226529763206,
+          "Fair": 0.7369338439191866,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "419",
+        "file_name": "datasets/semantic/val/images/419.jpeg",
+        "iou": {
+          "Background": 0.9895376670880288,
+          "Fair": 0.40804347826086956,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "42",
+        "file_name": "datasets/semantic/val/images/42.jpeg",
+        "iou": {
+          "Background": 0.9951426418673673,
+          "Fair": 0.35038363171355497,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "422",
+        "file_name": "datasets/semantic/val/images/422.jpeg",
+        "iou": {
+          "Background": 0.9940120221948212,
+          "Fair": 0.6280516993776927,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "427",
+        "file_name": "datasets/semantic/val/images/427.jpeg",
+        "iou": {
+          "Background": 0.9772476574429916,
+          "Fair": 0.5608092748351898,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "429",
+        "file_name": "datasets/semantic/val/images/429.jpeg",
+        "iou": {
+          "Background": 0.7618782352786609,
+          "Fair": 0.5591116975278375,
+          "Poor": 0.5162396827098296,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "48",
+        "file_name": "datasets/semantic/val/images/48.jpeg",
+        "iou": {
+          "Background": 0.9870268335201096,
+          "Fair": 0.6071176054678293,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "59",
+        "file_name": "datasets/semantic/val/images/59.jpeg",
+        "iou": {
+          "Background": 0.9572704912531436,
+          "Fair": 0.4499390119943078,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "63",
+        "file_name": "datasets/semantic/val/images/63.jpeg",
+        "iou": {
+          "Background": 0.9342247297137749,
+          "Fair": 0.6156651144455121,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "65",
+        "file_name": "datasets/semantic/val/images/65.jpeg",
+        "iou": {
+          "Background": 0.8362462597110255,
+          "Fair": 0.4169619131975199,
+          "Poor": 0.0,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "70",
+        "file_name": "datasets/semantic/val/images/70.jpeg",
+        "iou": {
+          "Background": 0.9241004965647337,
+          "Fair": 0.6789021802045148,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "78",
+        "file_name": "datasets/semantic/val/images/78.jpeg",
+        "iou": {
+          "Background": 0.975272773207434,
+          "Fair": 0.6161997103000091,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "8",
+        "file_name": "datasets/semantic/val/images/8.jpeg",
+        "iou": {
+          "Background": 0.9304298392445441,
+          "Fair": 0.8388979072522266,
+          "Poor": 0.8459002065787383,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "90",
+        "file_name": "datasets/semantic/val/images/90.jpeg",
+        "iou": {
+          "Background": 0.7876764830793772,
+          "Fair": 0.5563712409188442,
+          "Poor": 0.10971453699292755,
+          "Severe": 0.0
+        }
+      },
+      {
+        "image_id": "94",
+        "file_name": "datasets/semantic/val/images/94.jpeg",
+        "iou": {
+          "Background": 0.9764932470422164,
+          "Fair": 0.6584588644264194,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "97",
+        "file_name": "datasets/semantic/val/images/97.jpeg",
+        "iou": {
+          "Background": 0.9134361978702945,
+          "Fair": 0.658602103341117,
+          "Poor": NaN,
+          "Severe": NaN
+        }
+      },
+      {
+        "image_id": "99",
+        "file_name": "datasets/semantic/val/images/99.jpeg",
+        "iou": {
+          "Background": 0.8815774200173225,
+          "Fair": 0.5599152791305289,
+          "Poor": 0.0,
+          "Severe": NaN
+        }
+      }
+    ],
+    "class_mean": {
+      "Background": 0.9115765671179629,
+      "Fair": 0.5295114772522049,
+      "Poor": 0.34922350298905513,
+      "Severe": 0.05330532378115527
+    },
+    "mean": 0.6273182309093844
+  },
+  "boundary_analysis": {
+    "1": {
+      "per_class": {
+        "Background": 0.0,
+        "Fair": 0.0,
+        "Poor": 0.0,
+        "Severe": 0.0
+      },
+      "mean": NaN
+    },
+    "2": {
+      "per_class": {
+        "Background": 0.07062493823152431,
+        "Fair": 0.057486382942469605,
+        "Poor": 0.04506062952652437,
+        "Severe": 0.05546307126654537
+      },
+      "mean": 0.05715875549176592
+    },
+    "3": {
+      "per_class": {
+        "Background": 0.1288257781217749,
+        "Fair": 0.10590904241798835,
+        "Poor": 0.08642565940409604,
+        "Severe": 0.10255861971197167
+      },
+      "mean": 0.10592977491395773
+    },
+    "5": {
+      "per_class": {
+        "Background": 0.23613136099227874,
+        "Fair": 0.19277402017227704,
+        "Poor": 0.15887573631301827,
+        "Severe": 0.17520030903356174
+      },
+      "mean": 0.19074535662778394
+    },
+    "10": {
+      "per_class": {
+        "Background": 0.41347179829900044,
+        "Fair": 0.3490515525332978,
+        "Poor": 0.2987340666039299,
+        "Severe": 0.29604452224266165
+      },
+      "mean": 0.3393254849197225
+    }
+  },
+  "size_sensitivity": {
+    "small": {
+      "count": 81,
+      "mean_iou": 0.6273182309093844,
+      "median_iou": 0.6365448023564358,
+      "std_iou": 0.16815415635591904
+    },
+    "medium": {
+      "count": 0,
+      "mean_iou": 0.0,
+      "median_iou": 0.0,
+      "std_iou": 0.0
+    },
+    "large": {
+      "count": 0,
+      "mean_iou": 0.0,
+      "median_iou": 0.0,
+      "std_iou": 0.0
+    }
+  },
+  "model_analysis": {
+    "total_parameters": 106884669,
+    "trainable_parameters": 106884669,
+    "model_size_mb": 407.7326545715332,
+    "avg_inference_time_seconds": 0.03782827854156494,
+    "std_inference_time_seconds": 0.008125826454532147,
+    "fps": 26.435249991648984
+  }
+}
