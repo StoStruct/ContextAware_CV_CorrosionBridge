@@ -33,20 +33,28 @@ Because the environment dynamically compiles Detectron2 and Mask2Former, critica
 
 ## 3. Execution Pipeline
 
+### 3.1 Dataset Acquisition (Manual)
+Due to file size constraints, the proprietary structural dataset is hosted securely on an external server. Prior to executing the pipeline, the dataset must be manually downloaded and extracted.
+
+1. Navigate to the secure repository: https://usu.box.com/s/8el8o8h411f1u0zfg1pzuc22vtam6zid
+2. Download the compressed archive to the local machine.
+3. Extract the contents directly into the `datasets/` directory located at the root of this project.
+
+### 3.2 Environment Activation
 The virtual environment must be activated prior to executing any Python or shell scripts.
 
 ` ` `bash
 source mask2former-env/bin/activate
 ` ` `
 
-### 3.1 Data Preprocessing
+### 3.3 Data Preprocessing
 The preprocessing module must be executed first to format the structural dataset. Ensure class weights are correctly configured within the model parameters before initiating training.
 
 ` ` `bash
 python dataset_preprocess.py
 ` ` `
 
-### 3.2 Instance Segmentation
+### 3.4 Instance Segmentation
 
 ` ` `bash
 python datasets.py
@@ -54,7 +62,7 @@ python datasets.py
 ./scripts/eval.sh
 ` ` `
 
-### 3.3 Semantic Segmentation
+### 3.5 Semantic Segmentation
 
 ` ` `bash
 python datasets_semantic.py
