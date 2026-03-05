@@ -1,0 +1,18 @@
+# Environments
+mask2former-env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Models and Checkpoints
+models/
+output/
+*.pth
+*.pt
+
+# Datasets
+datasets/
+Mask2Former/
+detectron2/

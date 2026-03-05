@@ -1,0 +1,66 @@
+MODEL:
+  BACKBONE:
+    FREEZE_AT: 0
+    NAME: "build_resnet_backbone"
+  PIXEL_MEAN: [123.675, 116.280, 103.530]
+  PIXEL_STD: [58.395, 57.120, 57.375]
+  
+DATASETS:
+  TRAIN: ("corrosion_train",)
+  TEST: ("corrosion_val",)
+
+SOLVER:
+  IMS_PER_BATCH: 4
+  BASE_LR: 0.00002
+  LR_SCHEDULER_NAME: "WarmupCosineLR"
+  # Dataset: 2984 training images, Batch size: 4
+  # Iterations per epoch: ceil(2984/4) = 746 iterations
+  # Target: 100 epochs
+  # Total iterations: 746 × 100 = 74600 iterations
+  MAX_ITER: 74600
+  WARMUP_FACTOR: 1e-6
+  WARMUP_ITERS: 3730  # 5% of total training
+  WARMUP_METHOD: "linear"
+  WEIGHT_DECAY: 0.05
+  OPTIMIZER: "ADAMW"
+  BACKBONE_MULTIPLIER: 0.05
+  CLIP_GRADIENTS:
+    ENABLED: True
+    CLIP_TYPE: "norm"
+    CLIP_VALUE: 0.5
+    NORM_TYPE: 2.0
+  GAMMA: 0.1
+  CHECKPOINT_PERIOD: 3730  # Save checkpoints more frequently for early stopping
+  AMP:
+    ENABLED: True
+
+INPUT:
+  # MULTI-SCALE: Optimized for bridge structural elements detection
+  IMAGE_SIZE: 512
+  MIN_SCALE: 0.1
+  MAX_SCALE: 2.0
+  FORMAT: "RGB"
+  DATASET_MAPPER_NAME: "mask_former_semantic"
+  MIN_SIZE_TRAIN_SAMPLING: "choice"
+  # BALANCED: Symmetric range around original 512x512 for robust multi-scale training
+  MIN_SIZE_TRAIN: (448, 512, 576, 640, 704, 768, 800)
+  # CONSERVATIVE: Maximum size allows for largest training scale without excessive memory
+  MAX_SIZE_TRAIN: 800
+  # OPTIMIZED: Slight upscale for better small object detection
+  MIN_SIZE_TEST: 512
+  MAX_SIZE_TEST: 512
+  MASK_FORMAT: "bitmask"
+  CROP:
+    ENABLED: False
+    TYPE: "absolute"
+    SIZE: (512, 512)
+  RANDOM_FLIP: "horizontal"
+
+TEST:
+  EVAL_PERIOD: 3730  # Evaluate more frequently for early stopping
+
+DATALOADER:
+  FILTER_EMPTY_ANNOTATIONS: True
+  NUM_WORKERS: 4
+
+VERSION: 2
